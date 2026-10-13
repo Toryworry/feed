@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<listings>
+  <title>Test hotel feed</title>
+  <listing>
+    <image>
+      <url>http://www.facebook.com/a0.png</url>
+      <tag>Gym</tag>
+    </image>
+    <vehicle_offer_id>K456653443_0</vehicle_offer_id>
+    <title>A text field</title>
+    <offer_description>A text field</offer_description>
+    <url>https://www.example.com/</url>
+    <price>10,00 USD</price>
+    <custom_number_0>33333333</custom_number_0>
+    <custom_number_1>33333333</custom_number_1>
+    <custom_number_2>33333333</custom_number_2>
+    <custom_number_3>33333333</custom_number_3>
+    <custom_number_4>33333333</custom_number_4>
+    <cashback>10,00 USD</cashback>
+    <start_time>42</start_time>
+    <end_time>42</end_time>
+    <comscore_market_codes>2001</comscore_market_codes>
+    <comscore_market_codes>2003</comscore_market_codes>
+    <amount_price>10,00 USD</amount_price>
+    <amount_percentage>1</amount_percentage>
+    <downpayment>10,00 USD</downpayment>
+    <term_length>1</term_length>
+    <term_qualifier>A text field</term_qualifier>
+    <amount_qualifier>A text field</amount_qualifier>
+    <downpayment_qualifier>A text field</downpayment_qualifier>
+    <start_date>2018-12-25</start_date>
+    <end_date>2028-12-25</end_date>
+    <make>K456653443_0</make>
+    <model>K456653443_0</model>
+    <body_style>SEDAN</body_style>
+    <trim>A text field</trim>
+    <overlay_disclaimer>A text field</overlay_disclaimer>
+    <offer_disclaimer_url/>
+    <product_tags>some_string</product_tags>
+    <product_tags>other</product_tags>
+  </listing>
+</listings>
