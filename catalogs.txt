@@ -5,3 +5,6 @@
 # Приклади (заміни на свої):
 # https://automoto.ua/uk/car/Volkswagen | vw
 # https://automoto.ua/uk/newauto | new
+https://automoto.ua/uk/q/Legkovi-avtomobili-Vinnitska-23858741.html | Vinnytsia
+https://automoto.ua/uk/q/Legkovi-avtomobili-Hmelnitska-31121028.html | Khmelnytskyi 
+https://automoto.ua/uk/q/Legkovi-avtomobili-Kiyivska-23483275.html | Kyiv
