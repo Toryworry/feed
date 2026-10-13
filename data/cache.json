@@ -1033,94 +1033,6 @@
    "image": "https://img.automoto.ua/auto/Audi-q8-seryiy-Vnedorozhnik-Krossover-2019-ac6-73352845.jpg"
   }
  },
- "72647671": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72647671",
-   "url": "https://automoto.ua/uk/Skoda-Kodiaq-2026-Vinnitsa-72647671.html",
-   "name": "Skoda Kodiaq",
-   "make": "Skoda",
-   "model": "Kodiaq",
-   "year": "2026",
-   "price_usd": 51070,
-   "price_uah": 2306831,
-   "city": "Вінниця",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "1.97",
-   "gearbox": "Роботизована",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Skoda-Kodiaq-ne_ukazan-Vnedorozhnik-Krossover-2026-f7f-72647671.jpg"
-  }
- },
- "73248480": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73248480",
-   "url": "https://automoto.ua/uk/Citroen-jumpy-2026-Vinnitsa-73248480.html",
-   "name": "Citroen Jumpy",
-   "make": "Citroen",
-   "model": "Jumpy",
-   "year": "2026",
-   "price_usd": 34403,
-   "price_uah": 1553983,
-   "city": "Вінниця",
-   "mileage_km": null,
-   "fuel": "Дизель",
-   "engine_l": "2.2",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Передній",
-   "body": "Мінівен",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Citroen-jumpy-ne_ukazan-Miniven-2026-ee9-73248480.jpg"
-  }
- },
- "73265926": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73265926",
-   "url": "https://automoto.ua/uk/Land-Rover-Range-Rover-Sport-2026-Vinnitsa-73265926.html",
-   "name": "Land Rover Range Rover Sport",
-   "make": "Land",
-   "model": "Rover Range Rover Sport",
-   "year": "2026",
-   "price_usd": 165863,
-   "price_uah": 7492031,
-   "city": "Вінниця",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "3",
-   "gearbox": "Автомат",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Land-Rover-Range-Rover-Sport-ne_ukazan-Vnedorozhnik-Krossover-2026-43a-73265926.jpg"
-  }
- },
- "73281204": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73281204",
-   "url": "https://automoto.ua/uk/Hyundai-kona-2024-Vinnitsa-73281204.html",
-   "name": "Hyundai Kona",
-   "make": "Hyundai",
-   "model": "Kona",
-   "year": "2024",
-   "price_usd": 29299,
-   "price_uah": 1323435,
-   "city": "Вінниця",
-   "mileage_km": 1000,
-   "fuel": "Гібрид (HEV)",
-   "engine_l": "1.6",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Червоний",
-   "image": "https://img.automoto.ua/auto/Hyundai-kona-krasnyiy-Vnedorozhnik-Krossover-2024-871-73281204.jpg"
-  }
- },
  "73292515": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -1209,28 +1121,6 @@
    "image": "https://img.automoto.ua/auto/Audi-A4-chernyiy-Universal-2011-d65-73355838.jpg"
   }
  },
- "71929675": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "71929675",
-   "url": "https://automoto.ua/uk/Kia-sportage-2026-Lutsk-71929675.html",
-   "name": "Kia Sportage",
-   "make": "Kia",
-   "model": "Sportage",
-   "year": "2026",
-   "price_usd": 30027,
-   "price_uah": 1356019,
-   "city": "Луцьк",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1.6",
-   "gearbox": "Роботизована",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Kia-sportage-ne_ukazan-Vnedorozhnik-Krossover-2026-01b-71929675.jpg"
-  }
- },
  "73281059": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -1297,28 +1187,6 @@
    "image": "https://img.automoto.ua/auto/Renault-Kangoo-safari-Miniven-1999-b41-73352817.jpg"
   }
  },
- "73351124": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73351124",
-   "url": "https://automoto.ua/uk/Suzuki-Vitara-2026-Lutsk-73351124.html",
-   "name": "Suzuki Vitara",
-   "make": "Suzuki",
-   "model": "Vitara",
-   "year": "2026",
-   "price_usd": 21947,
-   "price_uah": 991345,
-   "city": "Луцьк",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1.37",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Suzuki-Vitara-ne_ukazan-Vnedorozhnik-Krossover-2026-dc6-73351124.jpg"
-  }
- },
  "73276067": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -1383,28 +1251,6 @@
    "body": "Мінівен",
    "color": "Чорний",
    "image": "https://img.automoto.ua/auto/Volkswagen-Touran-chernyiy-Miniven-2006-031-73355958.jpg"
-  }
- },
- "71918203": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "71918203",
-   "url": "https://automoto.ua/uk/Kia-xceed-2025-Lutsk-71918203.html",
-   "name": "Kia XCeed",
-   "make": "Kia",
-   "model": "XCeed",
-   "year": "2025",
-   "price_usd": 23777,
-   "price_uah": 1073769,
-   "city": "Луцьк",
-   "mileage_km": 0,
-   "fuel": "Гібрид (MHEV)",
-   "engine_l": "1",
-   "gearbox": "Роботизована",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Kia-xceed-ne_ukazan-Vnedorozhnik-Krossover-2025-dfe-71918203.jpg"
   }
  },
  "73289195": {
@@ -1493,50 +1339,6 @@
    "body": "Мінівен",
    "color": "Чорний",
    "image": "https://img.automoto.ua/auto/Ford-S-Max-chernyiy-Miniven-2015-50d-73284075.jpg"
-  }
- },
- "73189352": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73189352",
-   "url": "https://automoto.ua/uk/Hyundai-kona-2026-Lutsk-73189352.html",
-   "name": "Hyundai Kona",
-   "make": "Hyundai",
-   "model": "Kona",
-   "year": "2026",
-   "price_usd": 34153,
-   "price_uah": 1543715,
-   "city": "Луцьк",
-   "mileage_km": 0,
-   "fuel": "Гібрид (HEV)",
-   "engine_l": "1.58",
-   "gearbox": "Роботизована",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Hyundai-kona-ne_ukazan-Vnedorozhnik-Krossover-2026-67c-73189352.jpg"
-  }
- },
- "73358856": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73358856",
-   "url": "https://automoto.ua/uk/BMW-3-Series-1999-Kovel-73358856.html",
-   "name": "BMW 3 Series",
-   "make": "BMW",
-   "model": "3 Series",
-   "year": "1999",
-   "price_usd": 3511,
-   "price_uah": 158556,
-   "city": "Ковель",
-   "mileage_km": 220000,
-   "fuel": "Бензин",
-   "engine_l": "1.9",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Задній",
-   "body": "Седан",
-   "color": "Червоний",
-   "image": "https://img.automoto.ua/auto/BMW-3-Series-krasnyiy-Sedan-1999-109-73358856.jpg"
   }
  },
  "73346778": {
@@ -1649,28 +1451,6 @@
    "image": "https://img.automoto.ua/auto/Renault-Kangoo-safari-Furgon-1999-7c5-73373824.jpg"
   }
  },
- "73266199": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73266199",
-   "url": "https://automoto.ua/uk/Nissan-Qashqai-2026-Dnepr-Dnepropetrovsk-73266199.html",
-   "name": "Nissan Qashqai",
-   "make": "Nissan",
-   "model": "Qashqai",
-   "year": "2026",
-   "price_usd": 32244,
-   "price_uah": 1456139,
-   "city": "Дніпро (Дніпропетровськ) 32 244 $ 1 456 139 грн {{ formatNumber(convertCurrency('USD'",
-   "mileage_km": 0,
-   "fuel": "Гібрид (MHEV)",
-   "engine_l": "1.33",
-   "gearbox": "Варіатор",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Nissan-Qashqai-ne_ukazan-Vnedorozhnik-Krossover-2026-20c-73266199.jpg"
-  }
- },
  "73346843": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -1735,28 +1515,6 @@
    "body": "Мінівен",
    "color": "Зелений",
    "image": "https://img.automoto.ua/auto/Peugeot-Rifter-zelenyiy-Miniven-2024-18b-73350445.jpg"
-  }
- },
- "73101929": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73101929",
-   "url": "https://automoto.ua/uk/Nissan-X-Trail-2025-Dnepr-Dnepropetrovsk-73101929.html",
-   "name": "Nissan X-Trail",
-   "make": "Nissan",
-   "model": "X-Trail",
-   "year": "2025",
-   "price_usd": 50134,
-   "price_uah": 2266056,
-   "city": "Дніпро (Дніпропетровськ) 50 134 $ 2 266 056 грн {{ formatNumber(convertCurrency('USD'",
-   "mileage_km": 0,
-   "fuel": "Гібрид (HEV)",
-   "engine_l": "1.5",
-   "gearbox": "Автомат",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Nissan-X-Trail-ne_ukazan-Vnedorozhnik-Krossover-2025-ca9-73101929.jpg"
   }
  },
  "73355561": {
@@ -1979,28 +1737,6 @@
    "image": "https://img.automoto.ua/auto/Volkswagen-e-golf-ne_ukazan-Hetchbek-2015-174-73352227.jpg"
   }
  },
- "72619807": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72619807",
-   "url": "https://automoto.ua/uk/Mitsubishi-L-200-2025-Krivoyrog-72619807.html",
-   "name": "Mitsubishi L 200",
-   "make": "Mitsubishi",
-   "model": "L 200",
-   "year": "2025",
-   "price_usd": 46263,
-   "price_uah": 2089237,
-   "city": "Кривий Ріг",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "2.44",
-   "gearbox": "Автомат",
-   "drive": "Повний",
-   "body": "Пікап",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Mitsubishi-L-200-ne_ukazan-Pikap-2025-58e-72619807.jpg"
-  }
- },
  "73355485": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -2087,28 +1823,6 @@
    "body": "Універсал",
    "color": "Чорний",
    "image": "https://img.automoto.ua/auto/Audi-A4-chernyiy-Universal-2005-fa7-73348163.jpg"
-  }
- },
- "73196497": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73196497",
-   "url": "https://automoto.ua/uk/Citroen-C5-Aircross-2025-Zhitomir-73196497.html",
-   "name": "Citroen C5 Aircross",
-   "make": "Citroen",
-   "model": "C5 Aircross",
-   "year": "2025",
-   "price_usd": 28405,
-   "price_uah": 1282769,
-   "city": "Житомир",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "1.5",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Citroen-C5-Aircross-ne_ukazan-Vnedorozhnik-Krossover-2025-f1e-73196497.jpg"
   }
  },
  "73367806": {
@@ -2265,28 +1979,6 @@
    "image": "https://img.automoto.ua/auto/Hyundai-Santa-FE-seryiy-Vnedorozhnik-Krossover-2009-77d-73354344.jpg"
   }
  },
- "73263790": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73263790",
-   "url": "https://automoto.ua/uk/Peugeot-2008-2025-Zhitomir-73263790.html",
-   "name": "Peugeot 2008",
-   "make": "Peugeot",
-   "model": "2008",
-   "year": "2025",
-   "price_usd": 29538,
-   "price_uah": 1335117,
-   "city": "Житомир",
-   "mileage_km": 0,
-   "fuel": "Гібрид (HEV)",
-   "engine_l": "1.2",
-   "gearbox": "Роботизована",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Peugeot-2008-ne_ukazan-Vnedorozhnik-Krossover-2025-7dc-73263790.jpg"
-  }
- },
  "73355711": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -2419,28 +2111,6 @@
    "image": "https://img.automoto.ua/auto/Volkswagen-Caddy-seryiy-Miniven-2011-cd5-73280493.jpg"
   }
  },
- "73054487": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73054487",
-   "url": "https://automoto.ua/uk/jetour-t2-2026-Zhitomir-73054487.html",
-   "name": "Jetour T2",
-   "make": "Jetour",
-   "model": "T2",
-   "year": "2026",
-   "price_usd": 34698,
-   "price_uah": 1567308,
-   "city": "Житомир",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "2",
-   "gearbox": "Роботизована",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/jetour-t2-ne_ukazan-Vnedorozhnik-Krossover-2026-538-73054487.jpg"
-  }
- },
  "73356102": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -2529,28 +2199,6 @@
    "image": "https://img.automoto.ua/auto/Skoda-Octavia-seryiy-Universal-2011-9e3-73355882.jpg"
   }
  },
- "73012841": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73012841",
-   "url": "https://automoto.ua/uk/jetour-x50-2026-Uzhgorod-73012841.html",
-   "name": "Jetour X50",
-   "make": "Jetour",
-   "model": "X50",
-   "year": "2026",
-   "price_usd": 18016,
-   "price_uah": 813602,
-   "city": "Ужгород",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1.5",
-   "gearbox": "Роботизована",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/jetour-x50-ne_ukazan-Vnedorozhnik-Krossover-2026-1f7-73012841.jpg"
-  }
- },
  "73355916": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -2617,28 +2265,6 @@
    "image": "https://img.automoto.ua/auto/Volkswagen-Tiguan-belyiy-Vnedorozhnik-Krossover-2020-d3c-73352131.jpg"
   }
  },
- "73094482": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73094482",
-   "url": "https://automoto.ua/uk/BYD-yuan_plus-2026-Uzhgorod-73094482.html",
-   "name": "BYD Yuan Plus",
-   "make": "BYD",
-   "model": "Yuan Plus",
-   "year": "2026",
-   "price_usd": 26999,
-   "price_uah": 1219274,
-   "city": "Ужгород",
-   "mileage_km": 0,
-   "fuel": "Електро",
-   "engine_l": "0",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/BYD-yuan_plus-ne_ukazan-Vnedorozhnik-Krossover-2026-09a-73094482.jpg"
-  }
- },
  "73348323": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -2703,28 +2329,6 @@
    "body": "SUV / Кросовер",
    "color": "Чорний",
    "image": "https://img.automoto.ua/auto/Hummer-H3-chernyiy-Vnedorozhnik-Krossover-2008-11f-73360580.jpg"
-  }
- },
- "72824673": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72824673",
-   "url": "https://automoto.ua/uk/Mercedes-Benz-eqs-2023-Uzhgorod-72824673.html",
-   "name": "Mercedes-Benz EQS",
-   "make": "Mercedes-Benz",
-   "model": "EQS",
-   "year": "2023",
-   "price_usd": 103761,
-   "price_uah": 4685846,
-   "city": "Ужгород",
-   "mileage_km": 0,
-   "fuel": "Електро",
-   "engine_l": "0",
-   "gearbox": "Автомат",
-   "drive": "Задній",
-   "body": "Седан",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Mercedes-Benz-eqs-ne_ukazan-Sedan-2023-f85-72824673.jpg"
   }
  },
  "73356187": {
@@ -2815,28 +2419,6 @@
    "image": "https://img.automoto.ua/auto/Skoda-Octavia-seryiy-Universal-2011-731-73352077.jpg"
   }
  },
- "73366263": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73366263",
-   "url": "https://automoto.ua/uk/Fiat-Panda-2009-Uzhgorod-73366263.html",
-   "name": "Fiat Panda",
-   "make": "Fiat",
-   "model": "Panda",
-   "year": "2009",
-   "price_usd": 4516,
-   "price_uah": 203942,
-   "city": "Ужгород",
-   "mileage_km": 209000,
-   "fuel": "Бензин",
-   "engine_l": "1.2",
-   "gearbox": "Типтронік",
-   "drive": "Передній",
-   "body": "Хетчбек",
-   "color": "Помаранчевий",
-   "image": "https://img.automoto.ua/auto/Fiat-Panda-zheltyiy-Hetchbek-2009-1cd-73366263.jpg"
-  }
- },
  "73354245": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -2857,28 +2439,6 @@
    "body": "SUV / Кросовер",
    "color": "Білий",
    "image": "https://img.automoto.ua/auto/BMW-X5-belyiy-Vnedorozhnik-Krossover-2012-cc8-73354245.jpg"
-  }
- },
- "73119991": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73119991",
-   "url": "https://automoto.ua/uk/Mercedes-Benz-GLA-Class-2026-Uzhgorod-73119991.html",
-   "name": "Mercedes-Benz GLA-Class",
-   "make": "Mercedes-Benz",
-   "model": "GLA-Class",
-   "year": "2026",
-   "price_usd": 48424,
-   "price_uah": 2186827,
-   "city": "Ужгород",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1.33",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Mercedes-Benz-GLA-Class-ne_ukazan-Vnedorozhnik-Krossover-2026-4c2-73119991.jpg"
   }
  },
  "73319683": {
@@ -2969,28 +2529,6 @@
    "image": "https://img.automoto.ua/auto/Nissan-X-Trail-ne_ukazan-Vnedorozhnik-Krossover-2018-e5f-73286098.jpg"
   }
  },
- "71975839": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "71975839",
-   "url": "https://automoto.ua/uk/Skoda-Kodiaq-2026-Ivanofrankovsk-71975839.html",
-   "name": "Skoda Kodiaq",
-   "make": "Skoda",
-   "model": "Kodiaq",
-   "year": "2026",
-   "price_usd": 43572,
-   "price_uah": 1967711,
-   "city": "Івано-Франківськ",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "1.97",
-   "gearbox": "Роботизована",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Skoda-Kodiaq-ne_ukazan-Vnedorozhnik-Krossover-2026-bae-71975839.jpg"
-  }
- },
  "73281253": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -3057,28 +2595,6 @@
    "image": "https://img.automoto.ua/auto/Toyota-Land-Cruiser-chernyiy-Vnedorozhnik-Krossover-2016-be6-73283712.jpg"
   }
  },
- "72358031": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72358031",
-   "url": "https://automoto.ua/uk/JAC-t8-2026-Ivanofrankovsk-72358031.html",
-   "name": "JAC T8",
-   "make": "JAC",
-   "model": "T8",
-   "year": "2026",
-   "price_usd": 26708,
-   "price_uah": 1207201,
-   "city": "Івано-Франківськ",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "2",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Повний",
-   "body": "Пікап",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/JAC-t8-ne_ukazan-Pikap-2026-4b0-72358031.jpg"
-  }
- },
  "73355836": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -3143,28 +2659,6 @@
    "body": "SUV / Кросовер",
    "color": "Чорний",
    "image": "https://img.automoto.ua/auto/Jaguar-i-pace-chernyiy-Vnedorozhnik-Krossover-2020-724-73285486.jpg"
-  }
- },
- "71638679": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "71638679",
-   "url": "https://automoto.ua/uk/Renault-Duster-2026-Ivanofrankovsk-71638679.html",
-   "name": "Renault Duster",
-   "make": "Renault",
-   "model": "Duster",
-   "year": "2026",
-   "price_usd": 23799,
-   "price_uah": 1074762,
-   "city": "Івано-Франківськ",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "1.5",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Renault-Duster-ne_ukazan-Vnedorozhnik-Krossover-2026-f6e-71638679.jpg"
   }
  },
  "73291239": {
@@ -3299,94 +2793,6 @@
    "image": "https://img.automoto.ua/auto/Mazda-CX-5-seryiy-Vnedorozhnik-Krossover-2012-0fd-73280069.jpg"
   }
  },
- "73263417": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73263417",
-   "url": "https://automoto.ua/uk/Skoda-Kodiaq-2026-Ivanofrankovsk-73263417.html",
-   "name": "Skoda Kodiaq",
-   "make": "Skoda",
-   "model": "Kodiaq",
-   "year": "2026",
-   "price_usd": 41748,
-   "price_uah": 1885339,
-   "city": "Івано-Франківськ",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1.98",
-   "gearbox": "Роботизована",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Skoda-Kodiaq-ne_ukazan-Vnedorozhnik-Krossover-2026-bcc-73263417.jpg"
-  }
- },
- "72984166": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72984166",
-   "url": "https://automoto.ua/uk/Volkswagen-Tiguan-2026-Kiev-72984166.html",
-   "name": "Volkswagen Tiguan",
-   "make": "Volkswagen",
-   "model": "Tiguan",
-   "year": "2026",
-   "price_usd": 46042,
-   "price_uah": 2079256,
-   "city": "Київ",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "1.97",
-   "gearbox": "Роботизована",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Volkswagen-Tiguan-ne_ukazan-Vnedorozhnik-Krossover-2026-ebb-72984166.jpg"
-  }
- },
- "73325749": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73325749",
-   "url": "https://automoto.ua/uk/MG-ZS-2026-Kiev-73325749.html",
-   "name": "MG ZS",
-   "make": "MG",
-   "model": "ZS",
-   "year": "2026",
-   "price_usd": 24900,
-   "price_uah": 1124484,
-   "city": "Київ",
-   "mileage_km": 0,
-   "fuel": "Гібрид (HEV)",
-   "engine_l": "1.5",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/MG-ZS-ne_ukazan-Vnedorozhnik-Krossover-2026-c7a-73325749.jpg"
-  }
- },
- "73354042": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73354042",
-   "url": "https://automoto.ua/uk/Audi-q4_e-tron-2023-Kiev-73354042.html",
-   "name": "Audi Q4 e-tron",
-   "make": "Audi",
-   "model": "Q4 e-tron",
-   "year": "2023",
-   "price_usd": 34390,
-   "price_uah": 1553396,
-   "city": "Київ",
-   "mileage_km": 0,
-   "fuel": "Електро",
-   "engine_l": "0",
-   "gearbox": "Автомат",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Audi-q4_e-tron-ne_ukazan-Vnedorozhnik-Krossover-2023-381-73354042.jpg"
-  }
- },
  "73375662": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -3409,28 +2815,6 @@
    "image": "https://img.automoto.ua/auto/Toyota-Avensis-seryiy-Sedan-2006-73c-73375662.jpg"
   }
  },
- "73285021": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73285021",
-   "url": "https://automoto.ua/uk/Skoda-SuperB-2026-Kiev-73285021.html",
-   "name": "Skoda SuperB",
-   "make": "Skoda",
-   "model": "SuperB",
-   "year": "2026",
-   "price_usd": 50110,
-   "price_uah": 2263468,
-   "city": "Київ",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1.98",
-   "gearbox": "Роботизована",
-   "drive": "Повний",
-   "body": "Ліфтбек",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Skoda-SuperB-ne_ukazan-liftbek-2026-e4e-73285021.jpg"
-  }
- },
  "73356131": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -3451,28 +2835,6 @@
    "body": "Мінівен",
    "color": "Коричневий",
    "image": "https://img.automoto.ua/auto/Mercedes-Benz-Viano-korichnevyiy-Miniven-2011-507-73356131.jpg"
-  }
- },
- "73366246": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73366246",
-   "url": "https://automoto.ua/uk/Audi-A8-2002-Dolinskaya-73366246.html",
-   "name": "Audi A8",
-   "make": "Audi",
-   "model": "A8",
-   "year": "2002",
-   "price_usd": 3343,
-   "price_uah": 151103,
-   "city": "Долинська",
-   "mileage_km": 25000,
-   "fuel": "Дизель",
-   "engine_l": "3.3",
-   "gearbox": "Автомат",
-   "drive": "Повний",
-   "body": "Седан",
-   "color": "Чорний",
-   "image": "https://img.automoto.ua/auto/Audi-A8-chernyiy-Sedan-2002-fe4-73376932.jpg"
   }
  },
  "73347269": {
@@ -3517,28 +2879,6 @@
    "body": "SUV / Кросовер",
    "color": "Чорний",
    "image": "https://img.automoto.ua/auto/BMW-X5-chernyiy-Vnedorozhnik-Krossover-2007-b3f-73375710.jpg"
-  }
- },
- "70477164": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "70477164",
-   "url": "https://automoto.ua/uk/Mitsubishi-eclipse_cross-2025-Kropivnickiy-Kirovograd-70477164.html",
-   "name": "Mitsubishi Eclipse Cross",
-   "make": "Mitsubishi",
-   "model": "Eclipse Cross",
-   "year": "2025",
-   "price_usd": 27847,
-   "price_uah": 1257848,
-   "city": "Кропивницький (Кіровоград) 27 847 $ 1 257 848 грн {{ formatNumber(convertCurrency('USD'",
-   "mileage_km": null,
-   "fuel": "Бензин",
-   "engine_l": "1.5",
-   "gearbox": "Варіатор",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Mitsubishi-eclipse_cross-ne_ukazan-Vnedorozhnik-Krossover-2025-df2-70477164.jpg"
   }
  },
  "73355955": {
@@ -3607,28 +2947,6 @@
    "image": "https://img.automoto.ua/auto/Citroen-C4-krasnyiy-Hetchbek-2011-3ef-73346797.jpg"
   }
  },
- "72950459": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72950459",
-   "url": "https://automoto.ua/uk/Ford-Puma-2026-Kropivnickiy-Kirovograd-72950459.html",
-   "name": "Ford Puma",
-   "make": "Ford",
-   "model": "Puma",
-   "year": "2026",
-   "price_usd": 29134,
-   "price_uah": 1315691,
-   "city": "Кропивницький (Кіровоград) 29 134 $ 1 315 691 грн {{ formatNumber(convertCurrency('USD'",
-   "mileage_km": 0,
-   "fuel": "Гібрид (MHEV)",
-   "engine_l": "1",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Ford-Puma-ne_ukazan-Vnedorozhnik-Krossover-2026-e0a-72950459.jpg"
-  }
- },
  "73280326": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -3693,28 +3011,6 @@
    "body": "SUV / Кросовер",
    "color": "Білий",
    "image": "https://img.automoto.ua/auto/Volkswagen-Touareg-belyiy-Vnedorozhnik-Krossover-2019-016-73287697.jpg"
-  }
- },
- "73149476": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73149476",
-   "url": "https://automoto.ua/uk/Suzuki-s-cross-2026-Kropivnickiy-Kirovograd-73149476.html",
-   "name": "Suzuki S-Cross",
-   "make": "Suzuki",
-   "model": "S-Cross",
-   "year": "2026",
-   "price_usd": 28336,
-   "price_uah": 1279653,
-   "city": "Кропивницький (Кіровоград) 28 336 $ 1 279 653 грн {{ formatNumber(convertCurrency('USD'",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1.37",
-   "gearbox": "Автомат",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Suzuki-s-cross-ne_ukazan-Vnedorozhnik-Krossover-2026-6fb-73149476.jpg"
   }
  },
  "73358043": {
@@ -3827,28 +3123,6 @@
    "image": "https://img.automoto.ua/auto/Dodge-Journey-seryiy-Universal-2015-198-73368390.jpg"
   }
  },
- "72372321": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72372321",
-   "url": "https://automoto.ua/uk/Mitsubishi-Outlander-2026-Kropivnickiy-Kirovograd-72372321.html",
-   "name": "Mitsubishi Outlander",
-   "make": "Mitsubishi",
-   "model": "Outlander",
-   "year": "2026",
-   "price_usd": 43794,
-   "price_uah": 1977737,
-   "city": "Кропивницький (Кіровоград) 43 794 $ 1 977 737 грн {{ formatNumber(convertCurrency('USD'",
-   "mileage_km": null,
-   "fuel": "Бензин",
-   "engine_l": "2.49",
-   "gearbox": "Варіатор",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Mitsubishi-Outlander-ne_ukazan-Vnedorozhnik-Krossover-2026-d4b-72372321.jpg"
-  }
- },
  "73368387": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -3959,28 +3233,6 @@
    "image": "https://img.automoto.ua/auto/cupra-formentor-zelenyiy-Vnedorozhnik-Krossover-2025-dbf-73345589.jpg"
   }
  },
- "73329165": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73329165",
-   "url": "https://automoto.ua/uk/Skoda-Kodiaq-2026-Lvov-73329165.html",
-   "name": "Skoda Kodiaq",
-   "make": "Skoda",
-   "model": "Kodiaq",
-   "year": "2026",
-   "price_usd": 49210,
-   "price_uah": 2222323,
-   "city": "Львів",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1.98",
-   "gearbox": "Роботизована",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Skoda-Kodiaq-ne_ukazan-Vnedorozhnik-Krossover-2026-3b3-73329165.jpg"
-  }
- },
  "73352434": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -4045,28 +3297,6 @@
    "body": "Седан",
    "color": "Синій",
    "image": "https://img.automoto.ua/auto/BMW-3-Series-siniy-Sedan-2024-c1e-73349971.jpg"
-  }
- },
- "73342959": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73342959",
-   "url": "https://automoto.ua/uk/Skoda-Kodiaq-2026-Lvov-73342959.html",
-   "name": "Skoda Kodiaq",
-   "make": "Skoda",
-   "model": "Kodiaq",
-   "year": "2026",
-   "price_usd": 49288,
-   "price_uah": 2226338,
-   "city": "Львів",
-   "mileage_km": null,
-   "fuel": "Бензин",
-   "engine_l": "1.98",
-   "gearbox": "Роботизована",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Skoda-Kodiaq-ne_ukazan-Vnedorozhnik-Krossover-2026-738-73342959.jpg"
   }
  },
  "73355841": {
@@ -4135,28 +3365,6 @@
    "image": "https://img.automoto.ua/auto/Toyota-Land-Cruiser-Prado-chernyiy-Vnedorozhnik-Krossover-2025-3c5-73285649.jpg"
   }
  },
- "73329169": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73329169",
-   "url": "https://automoto.ua/uk/Skoda-Kodiaq-2026-Lvov-73329169.html",
-   "name": "Skoda Kodiaq",
-   "make": "Skoda",
-   "model": "Kodiaq",
-   "year": "2026",
-   "price_usd": 51097,
-   "price_uah": 2307540,
-   "city": "Львів",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "1.97",
-   "gearbox": "Роботизована",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Skoda-Kodiaq-ne_ukazan-Vnedorozhnik-Krossover-2026-8a7-73329169.jpg"
-  }
- },
  "73279869": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -4177,28 +3385,6 @@
    "body": "SUV / Кросовер",
    "color": "Білий",
    "image": "https://img.automoto.ua/auto/Audi-Q7-belyiy-Vnedorozhnik-Krossover-2023-717-73279869.jpg"
-  }
- },
- "73347679": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73347679",
-   "url": "https://automoto.ua/uk/Kia-Picanto-2010-ZHovkva-73347679.html",
-   "name": "Kia Picanto",
-   "make": "Kia",
-   "model": "Picanto",
-   "year": "2010",
-   "price_usd": 5899,
-   "price_uah": 266398,
-   "city": "Жовква",
-   "mileage_km": 97000,
-   "fuel": "Бензин",
-   "engine_l": "1.1",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "Хетчбек",
-   "color": "Сірий",
-   "image": "https://img.automoto.ua/auto/Kia-Picanto-seryiy-Hetchbek-2010-e03-73347679.jpg"
   }
  },
  "73355008": {
@@ -4289,28 +3475,6 @@
    "image": "https://img.automoto.ua/auto/Peugeot-5008-seryiy-Miniven-2011-df6-73358329.jpg"
   }
  },
- "73141744": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73141744",
-   "url": "https://automoto.ua/uk/Kia-sportage-2026-Lvov-73141744.html",
-   "name": "Kia Sportage",
-   "make": "Kia",
-   "model": "Sportage",
-   "year": "2026",
-   "price_usd": 34061,
-   "price_uah": 1539557,
-   "city": "Львів",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1.6",
-   "gearbox": "Роботизована",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Kia-sportage-ne_ukazan-Vnedorozhnik-Krossover-2026-6f8-73141744.jpg"
-  }
- },
  "73353063": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -4399,28 +3563,6 @@
    "image": "https://img.automoto.ua/auto/Toyota-Land-Cruiser-Prado-seryiy-Vnedorozhnik-Krossover-2020-6ee-73273957.jpg"
   }
  },
- "73263369": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73263369",
-   "url": "https://automoto.ua/uk/MG-ZS-2026-Nikolaev-73263369.html",
-   "name": "MG ZS",
-   "make": "MG",
-   "model": "ZS",
-   "year": "2026",
-   "price_usd": 24900,
-   "price_uah": 1124484,
-   "city": "Миколаїв",
-   "mileage_km": 0,
-   "fuel": "Гібрид (HEV)",
-   "engine_l": "1.5",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/MG-ZS-ne_ukazan-Vnedorozhnik-Krossover-2026-d24-73263369.jpg"
-  }
- },
  "73355950": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -4487,28 +3629,6 @@
    "image": "https://img.automoto.ua/auto/Ford-Focus-chernyiy-Universal-2009-c82-73356038.jpg"
   }
  },
- "72773764": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72773764",
-   "url": "https://automoto.ua/uk/Ford-Transit-Custom-2026-Nikolaev-72773764.html",
-   "name": "Ford Transit Custom",
-   "make": "Ford",
-   "model": "Transit Custom",
-   "year": "2026",
-   "price_usd": 46494,
-   "price_uah": 2099669,
-   "city": "Миколаїв",
-   "mileage_km": null,
-   "fuel": "Дизель",
-   "engine_l": "2",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Передній",
-   "body": "Фургон",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Ford-Transit-Custom-ne_ukazan-Furgon-2026-997-72773764.jpg"
-  }
- },
  "73282638": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -4573,28 +3693,6 @@
    "body": "SUV / Кросовер",
    "color": "Білий",
    "image": "https://img.automoto.ua/auto/Kia-Sorento-belyiy-Vnedorozhnik-Krossover-2018-05e-73367189.jpg"
-  }
- },
- "73266015": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73266015",
-   "url": "https://automoto.ua/uk/MG-hs-2026-Nikolaev-73266015.html",
-   "name": "MG HS",
-   "make": "MG",
-   "model": "HS",
-   "year": "2026",
-   "price_usd": 23297,
-   "price_uah": 1052092,
-   "city": "Миколаїв",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1.5",
-   "gearbox": "Роботизована",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/MG-hs-ne_ukazan-Vnedorozhnik-Krossover-2026-b7a-73266015.jpg"
   }
  },
  "73355638": {
@@ -4683,28 +3781,6 @@
    "body": "Хетчбек",
    "color": "Червоний",
    "image": "https://img.automoto.ua/auto/Chery-M11-krasnyiy-Hetchbek-2012-769-73368372.jpg"
-  }
- },
- "73107098": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73107098",
-   "url": "https://automoto.ua/uk/MG-s6_ev-2026-Nikolaev-73107098.html",
-   "name": "MG S6 EV",
-   "make": "MG",
-   "model": "S6 EV",
-   "year": "2026",
-   "price_usd": 38517,
-   "price_uah": 1739427,
-   "city": "Миколаїв",
-   "mileage_km": null,
-   "fuel": "Електро",
-   "engine_l": "0",
-   "gearbox": "Автомат",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/MG-s6_ev-ne_ukazan-Vnedorozhnik-Krossover-2026-390-73107098.jpg"
   }
  },
  "73359388": {
@@ -4839,28 +3915,6 @@
    "image": "https://img.automoto.ua/auto/Volkswagen-Passat-seryiy-Universal-2017-70d-71987416.jpg"
   }
  },
- "73018129": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73018129",
-   "url": "https://automoto.ua/uk/jetour-x50-2026-Odessa-73018129.html",
-   "name": "Jetour X50",
-   "make": "Jetour",
-   "model": "X50",
-   "year": "2026",
-   "price_usd": 16014,
-   "price_uah": 723192,
-   "city": "Одеса",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1.5",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/jetour-x50-ne_ukazan-Vnedorozhnik-Krossover-2026-6f5-73018129.jpg"
-  }
- },
  "73353251": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -4927,28 +3981,6 @@
    "image": "https://img.automoto.ua/auto/BMW-X5-chernyiy-Vnedorozhnik-Krossover-2015-226-73355887.jpg"
   }
  },
- "73211440": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73211440",
-   "url": "https://automoto.ua/uk/Peugeot-Rifter-2025-Odessa-73211440.html",
-   "name": "Peugeot Rifter",
-   "make": "Peugeot",
-   "model": "Rifter",
-   "year": "2025",
-   "price_usd": 23777,
-   "price_uah": 1073769,
-   "city": "Одеса",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "1.5",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Передній",
-   "body": "Мінівен",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Peugeot-Rifter-ne_ukazan-Miniven-2025-329-73211440.jpg"
-  }
- },
  "73355675": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -5013,28 +4045,6 @@
    "body": "SUV / Кросовер",
    "color": "Чорний",
    "image": "https://img.automoto.ua/auto/Volkswagen-t-roc-chernyiy-Vnedorozhnik-Krossover-2023-5da-73280244.jpg"
-  }
- },
- "73201840": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73201840",
-   "url": "https://automoto.ua/uk/Porsche-cayenne_coupe-2026-Odessa-73201840.html",
-   "name": "Porsche Cayenne Coupe",
-   "make": "Porsche",
-   "model": "Cayenne Coupe",
-   "year": "2026",
-   "price_usd": 137834,
-   "price_uah": 6224583,
-   "city": "Одеса",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "3",
-   "gearbox": "Автомат",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Porsche-cayenne_coupe-ne_ukazan-Vnedorozhnik-Krossover-2026-681-73201840.jpg"
   }
  },
  "73350025": {
@@ -5147,28 +4157,6 @@
    "image": "https://img.automoto.ua/auto/Tesla-Model-S-chernyiy-liftbek-2018-676-73355910.jpg"
   }
  },
- "72861710": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72861710",
-   "url": "https://automoto.ua/uk/Mitsubishi-Outlander-2026-Odessa-72861710.html",
-   "name": "Mitsubishi Outlander",
-   "make": "Mitsubishi",
-   "model": "Outlander",
-   "year": "2026",
-   "price_usd": 44239,
-   "price_uah": 1997833,
-   "city": "Одеса",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "2.49",
-   "gearbox": "Варіатор",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Mitsubishi-Outlander-ne_ukazan-Vnedorozhnik-Krossover-2026-20b-72861710.jpg"
-  }
- },
  "73375530": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -5279,28 +4267,6 @@
    "image": "https://img.automoto.ua/auto/Subaru-Outback-seryiy-Universal-2019-035-73355923.jpg"
   }
  },
- "73329151": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73329151",
-   "url": "https://automoto.ua/uk/Renault-Trafic-2026-Kremenchug-73329151.html",
-   "name": "Renault Trafic",
-   "make": "Renault",
-   "model": "Trafic",
-   "year": "2026",
-   "price_usd": 42170,
-   "price_uah": 1904397,
-   "city": "Кременчук",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "2",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Передній",
-   "body": "Мінівен",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Renault-Trafic-ne_ukazan-Miniven-2026-097-73329151.jpg"
-  }
- },
  "73355981": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -5367,28 +4333,6 @@
    "image": "https://img.automoto.ua/auto/Ford-Fusion-seryiy-Hetchbek-2006-157-73355852.jpg"
   }
  },
- "73329158": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73329158",
-   "url": "https://automoto.ua/uk/Renault-Duster-2026-Kremenchug-73329158.html",
-   "name": "Renault Duster",
-   "make": "Renault",
-   "model": "Duster",
-   "year": "2026",
-   "price_usd": 26713,
-   "price_uah": 1206626,
-   "city": "Кременчук",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "1.5",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Renault-Duster-ne_ukazan-Vnedorozhnik-Krossover-2026-82b-73329158.jpg"
-  }
- },
  "73357678": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -5453,28 +4397,6 @@
    "body": "Седан",
    "color": "Білий",
    "image": "https://img.automoto.ua/auto/ravon-R4-belyiy-Sedan-2017-1eb-73345928.jpg"
-  }
- },
- "73215679": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73215679",
-   "url": "https://automoto.ua/uk/Fiat-500_x-2024-Poltava-73215679.html",
-   "name": "Fiat 500X",
-   "make": "Fiat",
-   "model": "500X",
-   "year": "2024",
-   "price_usd": 18683,
-   "price_uah": 843724,
-   "city": "Полтава",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1.37",
-   "gearbox": "Роботизована",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Fiat-500_x-ne_ukazan-Vnedorozhnik-Krossover-2024-7b9-73215679.jpg"
   }
  },
  "73353734": {
@@ -5609,28 +4531,6 @@
    "image": "https://img.automoto.ua/auto/BMW-5-Series-belyiy-Sedan-2018-696-73355450.jpg"
   }
  },
- "73277089": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73277089",
-   "url": "https://automoto.ua/uk/denza-n7-2024-Poltava-73277089.html",
-   "name": "Denza N7",
-   "make": "Denza",
-   "model": "N7",
-   "year": "2024",
-   "price_usd": 37500,
-   "price_uah": 1693499,
-   "city": "Полтава",
-   "mileage_km": 24000,
-   "fuel": "Електро",
-   "engine_l": "0",
-   "gearbox": "Автомат",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Сірий",
-   "image": "https://img.automoto.ua/auto/denza-n7-seryiy-Vnedorozhnik-Krossover-2024-af7-73277089.jpg"
-  }
- },
  "73308867": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -5719,28 +4619,6 @@
    "image": "https://img.automoto.ua/auto/Mazda-6-seryiy-Universal-2013-e9a-73275473.jpg"
   }
  },
- "73094495": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73094495",
-   "url": "https://automoto.ua/uk/Volkswagen-id_unyx-2025-Rovno-73094495.html",
-   "name": "Volkswagen ID. Unyx",
-   "make": "Volkswagen",
-   "model": "ID. Unyx",
-   "year": "2025",
-   "price_usd": 27000,
-   "price_uah": 1219320,
-   "city": "Рівне",
-   "mileage_km": null,
-   "fuel": "Електро",
-   "engine_l": "0",
-   "gearbox": "Автомат",
-   "drive": "Задній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Volkswagen-id_unyx-ne_ukazan-Vnedorozhnik-Krossover-2025-ffc-73094495.jpg"
-  }
- },
  "73278064": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -5807,28 +4685,6 @@
    "image": "https://img.automoto.ua/auto/Skoda-Octavia-seryiy-Universal-2000-a92-73353701.jpg"
   }
  },
- "71835330": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "71835330",
-   "url": "https://automoto.ua/uk/Kia-tasman-2026-Rovno-71835330.html",
-   "name": "Kia Tasman",
-   "make": "Kia",
-   "model": "Tasman",
-   "year": "2026",
-   "price_usd": 41368,
-   "price_uah": 1868178,
-   "city": "Рівне",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "2.15",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Повний",
-   "body": "Пікап",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Kia-tasman-ne_ukazan-Pikap-2026-819-71835330.jpg"
-  }
- },
  "73368228": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -5893,28 +4749,6 @@
    "body": "Універсал",
    "color": "Чорний",
    "image": "https://img.automoto.ua/auto/Ford-Focus-chernyiy-Universal-2014-e34-73353032.jpg"
-  }
- },
- "72832549": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72832549",
-   "url": "https://automoto.ua/uk/Kia-sportage-2026-Rovno-72832549.html",
-   "name": "Kia Sportage",
-   "make": "Kia",
-   "model": "Sportage",
-   "year": "2026",
-   "price_usd": 34028,
-   "price_uah": 1536704,
-   "city": "Рівне",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1.6",
-   "gearbox": "Роботизована",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Kia-sportage-ne_ukazan-Vnedorozhnik-Krossover-2026-6e6-72832549.jpg"
   }
  },
  "73286689": {
@@ -6049,28 +4883,6 @@
    "image": "https://img.automoto.ua/auto/Volkswagen-Drugaya-seryiy-Sedan-2002-4ff-73369425.jpg"
   }
  },
- "73245653": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73245653",
-   "url": "https://automoto.ua/uk/Toyota-proace_city_verso-2026-Rovno-73245653.html",
-   "name": "Toyota Proace City Verso",
-   "make": "Toyota",
-   "model": "Proace City Verso",
-   "year": "2026",
-   "price_usd": 26760,
-   "price_uah": 1208481,
-   "city": "Рівне",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "1.5",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Передній",
-   "body": "Мінівен",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Toyota-proace_city_verso-ne_ukazan-Miniven-2026-0ee-73245653.jpg"
-  }
- },
  "72967264": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -6159,28 +4971,6 @@
    "image": "https://img.automoto.ua/auto/Mitsubishi-Outlander-belyiy-Vnedorozhnik-Krossover-2011-650-73349438.jpg"
   }
  },
- "72565114": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72565114",
-   "url": "https://automoto.ua/uk/Fiat-Nuovo-Doblo-2026-Ternopol-72565114.html",
-   "name": "Fiat Doblo",
-   "make": "Fiat",
-   "model": "Doblo",
-   "year": "2026",
-   "price_usd": 26466,
-   "price_uah": 1195204,
-   "city": "Тернопіль",
-   "mileage_km": null,
-   "fuel": "Дизель",
-   "engine_l": "1.5",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Передній",
-   "body": "Фургон",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Fiat-Nuovo-Doblo-ne_ukazan-Furgon-2026-a4c-72565114.jpg"
-  }
- },
  "73348357": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -6247,28 +5037,6 @@
    "image": "https://img.automoto.ua/auto/Audi-q8-bezhevyiy-Vnedorozhnik-Krossover-2020-0ba-73283611.jpg"
   }
  },
- "71548095": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "71548095",
-   "url": "https://automoto.ua/uk/Hyundai-Tucson-2026-Ternopol-71548095.html",
-   "name": "Hyundai Tucson",
-   "make": "Hyundai",
-   "model": "Tucson",
-   "year": "2026",
-   "price_usd": 28605,
-   "price_uah": 1291801,
-   "city": "Тернопіль",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "2",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Hyundai-Tucson-ne_ukazan-Vnedorozhnik-Krossover-2026-3de-71548095.jpg"
-  }
- },
  "73289410": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -6333,28 +5101,6 @@
    "body": "Хетчбек",
    "color": "Білий",
    "image": "https://img.automoto.ua/auto/Volkswagen-id3-belyiy-Hetchbek-2021-94c-73273767.jpg"
-  }
- },
- "73007107": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73007107",
-   "url": "https://automoto.ua/uk/Peugeot-408-2026-Ternopol-73007107.html",
-   "name": "Peugeot 408",
-   "make": "Peugeot",
-   "model": "408",
-   "year": "2026",
-   "price_usd": 35945,
-   "price_uah": 1624714,
-   "city": "Тернопіль",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1.6",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Peugeot-408-ne_ukazan-Vnedorozhnik-Krossover-2026-2a2-73007107.jpg"
   }
  },
  "73284917": {
@@ -6467,28 +5213,6 @@
    "image": "https://img.automoto.ua/auto/Ford-Edge-krasnyiy-Vnedorozhnik-Krossover-2015-800-73360184.jpg"
   }
  },
- "72887005": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72887005",
-   "url": "https://automoto.ua/uk/Peugeot-partner-2026-Ternopol-72887005.html",
-   "name": "Peugeot Partner",
-   "make": "Peugeot",
-   "model": "Partner",
-   "year": "2026",
-   "price_usd": 27447,
-   "price_uah": 1239506,
-   "city": "Тернопіль",
-   "mileage_km": null,
-   "fuel": "Дизель",
-   "engine_l": "1.5",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Передній",
-   "body": "Мінівен",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Peugeot-partner-ne_ukazan-Miniven-2026-160-72887005.jpg"
-  }
- },
  "73348072": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -6599,28 +5323,6 @@
    "image": "https://img.automoto.ua/auto/BMW-X5-chernyiy-Vnedorozhnik-Krossover-2015-b80-73375917.jpg"
   }
  },
- "73018121": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73018121",
-   "url": "https://automoto.ua/uk/Mazda-CX-5-2026-Kharkov-73018121.html",
-   "name": "Mazda CX-5",
-   "make": "Mazda",
-   "model": "CX-5",
-   "year": "2026",
-   "price_usd": 31659,
-   "price_uah": 1429720,
-   "city": "Харків",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "2",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Mazda-CX-5-ne_ukazan-Vnedorozhnik-Krossover-2026-b50-73018121.jpg"
-  }
- },
  "73286242": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -6685,28 +5387,6 @@
    "body": "SUV / Кросовер",
    "color": "Білий",
    "image": "https://img.automoto.ua/auto/Kia-sportage-belyiy-Vnedorozhnik-Krossover-2016-6c9-73355816.jpg"
-  }
- },
- "73354034": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73354034",
-   "url": "https://automoto.ua/uk/BYD-sea_lion_05-2025-Kharkov-73354034.html",
-   "name": "BYD Sea Lion 05",
-   "make": "BYD",
-   "model": "Sea Lion 05",
-   "year": "2025",
-   "price_usd": 25497,
-   "price_uah": 1151444,
-   "city": "Харків",
-   "mileage_km": 0,
-   "fuel": "Електро",
-   "engine_l": "0",
-   "gearbox": "Автомат",
-   "drive": "Задній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/BYD-sea_lion_05-ne_ukazan-Vnedorozhnik-Krossover-2025-da6-73354034.jpg"
   }
  },
  "73276703": {
@@ -6929,116 +5609,6 @@
    "image": "https://img.automoto.ua/auto/SsangYong-Rexton-siniy-Vnedorozhnik-Krossover-2008-20f-73357726.jpg"
   }
  },
- "72479284": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72479284",
-   "url": "https://automoto.ua/uk/Hyundai-kona-2026-Kharkov-72479284.html",
-   "name": "Hyundai Kona",
-   "make": "Hyundai",
-   "model": "Kona",
-   "year": "2026",
-   "price_usd": 36597,
-   "price_uah": 1654184,
-   "city": "Харків",
-   "mileage_km": 0,
-   "fuel": "Гібрид (HEV)",
-   "engine_l": "1.58",
-   "gearbox": "Роботизована",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Hyundai-kona-ne_ukazan-Vnedorozhnik-Krossover-2026-e91-72479284.jpg"
-  }
- },
- "73072480": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73072480",
-   "url": "https://automoto.ua/uk/Ford-Transit-2026-Khmelnytskyi-73072480.html",
-   "name": "Ford Transit",
-   "make": "Ford",
-   "model": "Transit",
-   "year": "2026",
-   "price_usd": 65013,
-   "price_uah": 2935987,
-   "city": "Хмельницький",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "2",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Задній",
-   "body": "Мікроавтобус",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Ford-Transit-ne_ukazan-mikroavtobus-2026-020-73072480.jpg"
-  }
- },
- "73345421": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73345421",
-   "url": "https://automoto.ua/uk/zeekr-007_gt-2026-Khmelnytskyi-73345421.html",
-   "name": "Zeekr 007 GT",
-   "make": "Zeekr",
-   "model": "007 GT",
-   "year": "2026",
-   "price_usd": 47550,
-   "price_uah": 2147358,
-   "city": "Хмельницький",
-   "mileage_km": 0,
-   "fuel": "Електро",
-   "engine_l": "0",
-   "gearbox": "Автомат",
-   "drive": "Задній",
-   "body": "Універсал",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/zeekr-007_gt-ne_ukazan-Universal-2026-229-73345421.jpg"
-  }
- },
- "72955827": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72955827",
-   "url": "https://automoto.ua/uk/jetour-t2-2026-Khmelnytskyi-72955827.html",
-   "name": "Jetour T2",
-   "make": "Jetour",
-   "model": "T2",
-   "year": "2026",
-   "price_usd": 34698,
-   "price_uah": 1566961,
-   "city": "Хмельницький",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "2",
-   "gearbox": "Роботизована",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/jetour-t2-ne_ukazan-Vnedorozhnik-Krossover-2026-b4d-72955827.jpg"
-  }
- },
- "72830072": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72830072",
-   "url": "https://automoto.ua/uk/Hyundai-Tucson-2026-Khmelnytskyi-72830072.html",
-   "name": "Hyundai Tucson",
-   "make": "Hyundai",
-   "model": "Tucson",
-   "year": "2026",
-   "price_usd": 29706,
-   "price_uah": 1341820,
-   "city": "Хмельницький",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "2",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Hyundai-Tucson-ne_ukazan-Vnedorozhnik-Krossover-2026-8a7-72830072.jpg"
-  }
- },
  "73356055": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -7103,50 +5673,6 @@
    "body": "SUV / Кросовер",
    "color": "Чорний",
    "image": "https://img.automoto.ua/auto/Toyota-Land-Cruiser-chernyiy-Vnedorozhnik-Krossover-2023-41a-73273456.jpg"
-  }
- },
- "73366477": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73366477",
-   "url": "https://automoto.ua/uk/Renault-Scenic-2011-Zvenigorodka-73366477.html",
-   "name": "Renault Scenic",
-   "make": "Renault",
-   "model": "Scenic",
-   "year": "2011",
-   "price_usd": 7727,
-   "price_uah": 348951,
-   "city": "Звенигородка",
-   "mileage_km": 249000,
-   "fuel": "Дизель",
-   "engine_l": "1.5",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Передній",
-   "body": "Універсал",
-   "color": "Сірий",
-   "image": "https://img.automoto.ua/auto/Renault-Scenic-seryiy-Universal-2011-0a7-73366477.jpg"
-  }
- },
- "72467899": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72467899",
-   "url": "https://automoto.ua/uk/Mitsubishi-Outlander-2026-Cherkassy-72467899.html",
-   "name": "Mitsubishi Outlander",
-   "make": "Mitsubishi",
-   "model": "Outlander",
-   "year": "2026",
-   "price_usd": 32896,
-   "price_uah": 1485583,
-   "city": "Черкаси",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "2.49",
-   "gearbox": "Варіатор",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Mitsubishi-Outlander-ne_ukazan-Vnedorozhnik-Krossover-2026-649-72467899.jpg"
   }
  },
  "73282179": {
@@ -7215,28 +5741,6 @@
    "image": "https://img.automoto.ua/auto/Nissan-Primera-seryiy-Sedan-2003-ccf-73359644.jpg"
   }
  },
- "72147761": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72147761",
-   "url": "https://automoto.ua/uk/Ford-Tourneo-Courier-2025-Cherkassy-72147761.html",
-   "name": "Ford Tourneo Courier",
-   "make": "Ford",
-   "model": "Tourneo Courier",
-   "year": "2025",
-   "price_usd": 24911,
-   "price_uah": 1124980,
-   "city": "Черкаси",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "Мінівен",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Ford-Tourneo-Courier-ne_ukazan-Miniven-2025-b92-72147761.jpg"
-  }
- },
  "73288552": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -7303,28 +5807,6 @@
    "image": "https://img.automoto.ua/auto/Subaru-Legacy-chernyiy-Sedan-2006-de7-73352108.jpg"
   }
  },
- "72698090": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72698090",
-   "url": "https://automoto.ua/uk/Skoda-Octavia-2026-Cherkassy-72698090.html",
-   "name": "Skoda Octavia",
-   "make": "Skoda",
-   "model": "Octavia",
-   "year": "2026",
-   "price_usd": 36303,
-   "price_uah": 1639443,
-   "city": "Черкаси",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "1.97",
-   "gearbox": "Роботизована",
-   "drive": "Передній",
-   "body": "Ліфтбек",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Skoda-Octavia-ne_ukazan-liftbek-2026-6b5-72698090.jpg"
-  }
- },
  "73282723": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -7367,28 +5849,6 @@
    "body": "Седан",
    "color": "Червоний",
    "image": "https://img.automoto.ua/auto/Audi-A6-krasnyiy-Sedan-2007-265-73358082.jpg"
-  }
- },
- "73285808": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73285808",
-   "url": "https://automoto.ua/uk/Kia-sportage-2017-Cherkassy-73285808.html",
-   "name": "Kia Sportage",
-   "make": "Kia",
-   "model": "Sportage",
-   "year": "2017",
-   "price_usd": 19800,
-   "price_uah": 894167,
-   "city": "Черкаси",
-   "mileage_km": 160000,
-   "fuel": "Дизель",
-   "engine_l": "2",
-   "gearbox": "Автомат",
-   "drive": "Повний",
-   "body": "SUV / Кросовер",
-   "color": "Синій",
-   "image": "https://img.automoto.ua/auto/Kia-sportage-siniy-Vnedorozhnik-Krossover-2017-cdc-73285808.jpg"
   }
  },
  "73358861": {
@@ -7567,28 +6027,6 @@
    "image": "https://img.automoto.ua/auto/Skoda-Karoq-belyiy-Vnedorozhnik-Krossover-2020-bb2-73355920.jpg"
   }
  },
- "73007115": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73007115",
-   "url": "https://automoto.ua/uk/Hyundai-Tucson-2026-Chernigov-73007115.html",
-   "name": "Hyundai Tucson",
-   "make": "Hyundai",
-   "model": "Tucson",
-   "year": "2026",
-   "price_usd": 28605,
-   "price_uah": 1291801,
-   "city": "Чернігів",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "2",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Hyundai-Tucson-ne_ukazan-Vnedorozhnik-Krossover-2026-a26-73007115.jpg"
-  }
- },
  "73362701": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -7655,28 +6093,6 @@
    "image": "https://img.automoto.ua/auto/Peugeot-boxer-belyiy-Furgon-2008-8c2-73340939.jpg"
   }
  },
- "72457864": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72457864",
-   "url": "https://automoto.ua/uk/Toyota-bz4x-2026-Chernigov-72457864.html",
-   "name": "Toyota bZ4X",
-   "make": "Toyota",
-   "model": "bZ4X",
-   "year": "2026",
-   "price_usd": 48858,
-   "price_uah": 2206427,
-   "city": "Чернігів",
-   "mileage_km": null,
-   "fuel": "Електро",
-   "engine_l": "0",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Toyota-bz4x-ne_ukazan-Vnedorozhnik-Krossover-2026-1b3-72457864.jpg"
-  }
- },
  "73374420": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -7741,28 +6157,6 @@
    "body": "Хетчбек",
    "color": "Білий",
    "image": "https://img.automoto.ua/auto/Nissan-Micra-belyiy-Hetchbek-2011-197-73369073.jpg"
-  }
- },
- "72911503": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72911503",
-   "url": "https://automoto.ua/uk/Toyota-bz4x-2026-Chernigov-72911503.html",
-   "name": "Toyota bZ4X",
-   "make": "Toyota",
-   "model": "bZ4X",
-   "year": "2026",
-   "price_usd": 50369,
-   "price_uah": 2274664,
-   "city": "Чернігів",
-   "mileage_km": 0,
-   "fuel": "Електро",
-   "engine_l": "0",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Toyota-bz4x-ne_ukazan-Vnedorozhnik-Krossover-2026-370-72911503.jpg"
   }
  },
  "73291511": {
@@ -7897,28 +6291,6 @@
    "image": "https://img.automoto.ua/auto/Lexus-ES-chernyiy-Sedan-2015-00b-73374679.jpg"
   }
  },
- "73348162": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "73348162",
-   "url": "https://automoto.ua/uk/Toyota-corolla_cross-2023-Chernigov-73348162.html",
-   "name": "Toyota Corolla Cross",
-   "make": "Toyota",
-   "model": "Corolla Cross",
-   "year": "2023",
-   "price_usd": 31999,
-   "price_uah": 1445074,
-   "city": "Чернігів",
-   "mileage_km": 25000,
-   "fuel": "Гібрид (HEV)",
-   "engine_l": "2",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Білий",
-   "image": "https://img.automoto.ua/auto/Toyota-corolla_cross-belyiy-Vnedorozhnik-Krossover-2023-9f6-73348162.jpg"
-  }
- },
  "73206453": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -8007,28 +6379,6 @@
    "image": "https://img.automoto.ua/auto/Audi-Q5-chernyiy-Vnedorozhnik-Krossover-2017-06c-73284342.jpg"
   }
  },
- "72443644": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72443644",
-   "url": "https://automoto.ua/uk/Mitsubishi-Outlander-2026-Chernovtsy-72443644.html",
-   "name": "Mitsubishi Outlander",
-   "make": "Mitsubishi",
-   "model": "Outlander",
-   "year": "2026",
-   "price_usd": 33341,
-   "price_uah": 1505679,
-   "city": "Чернівці",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "2.49",
-   "gearbox": "Варіатор",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Mitsubishi-Outlander-ne_ukazan-Vnedorozhnik-Krossover-2026-cba-72443644.jpg"
-  }
- },
  "73287760": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -8095,28 +6445,6 @@
    "image": "https://img.automoto.ua/auto/Mercedes-Benz-S-Class-chernyiy-Sedan-2003-6a3-73357016.jpg"
   }
  },
- "72982347": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72982347",
-   "url": "https://automoto.ua/uk/Citroen-Berlingo-2025-Chernovtsy-72982347.html",
-   "name": "Citroen Berlingo",
-   "make": "Citroen",
-   "model": "Berlingo",
-   "year": "2025",
-   "price_usd": 23997,
-   "price_uah": 1083944,
-   "city": "Чернівці",
-   "mileage_km": 0,
-   "fuel": "Дизель",
-   "engine_l": "1.5",
-   "gearbox": "Ручна / Механіка",
-   "drive": "Передній",
-   "body": "Мінівен",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Citroen-Berlingo-ne_ukazan-Miniven-2025-d13-72982347.jpg"
-  }
- },
  "73355482": {
   "fetched": "2026-10-13T14:33:58.225360+00:00",
   "data": {
@@ -8181,28 +6509,6 @@
    "body": "SUV / Кросовер",
    "color": "Сірий",
    "image": "https://img.automoto.ua/auto/BMW-X5-seryiy-Vnedorozhnik-Krossover-2010-7b0-73294154.jpg"
-  }
- },
- "72963511": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
-  "data": {
-   "id": "72963511",
-   "url": "https://automoto.ua/uk/Opel-mokka-2025-Chernovtsy-72963511.html",
-   "name": "Opel Mokka",
-   "make": "Opel",
-   "model": "Mokka",
-   "year": "2025",
-   "price_usd": 27117,
-   "price_uah": 1224874,
-   "city": "Чернівці",
-   "mileage_km": 0,
-   "fuel": "Бензин",
-   "engine_l": "1.2",
-   "gearbox": "Автомат",
-   "drive": "Передній",
-   "body": "SUV / Кросовер",
-   "color": "Інший",
-   "image": "https://img.automoto.ua/auto/Opel-mokka-ne_ukazan-Vnedorozhnik-Krossover-2025-bc7-72963511.jpg"
   }
  },
  "73371421": {
@@ -8337,26 +6643,1720 @@
    "image": "https://img.automoto.ua/auto/Skoda-Kodiaq-seryiy-Vnedorozhnik-Krossover-2021-c71-73293603.jpg"
   }
  },
- "73369341": {
-  "fetched": "2026-10-13T14:33:58.225360+00:00",
+ "73248463": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
   "data": {
-   "id": "73369341",
-   "url": "https://automoto.ua/uk/Renault-Megane-2010-Sokiryanyi-73369341.html",
-   "name": "Renault Megane",
-   "make": "Renault",
-   "model": "Megane",
-   "year": "2010",
-   "price_usd": 5517,
-   "price_uah": 249202,
-   "city": "Сокиряни 5 517 $ 249 202 грн {{ formatNumber(convertCurrency('USD'",
-   "mileage_km": 2000,
+   "id": "73248463",
+   "url": "https://automoto.ua/uk/Citroen-Berlingo-2025-Vinnitsa-73248463.html",
+   "name": "Citroen Berlingo",
+   "make": "Citroen",
+   "model": "Berlingo",
+   "year": "2025",
+   "price_usd": 23230,
+   "price_uah": 1049066,
+   "city": "Вінниця",
+   "mileage_km": null,
    "fuel": "Дизель",
    "engine_l": "1.5",
    "gearbox": "Ручна / Механіка",
    "drive": "Передній",
+   "body": "Мінівен",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Citroen-Berlingo-ne_ukazan-Miniven-2025-abe-73248463.jpg"
+  }
+ },
+ "73082889": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73082889",
+   "url": "https://automoto.ua/uk/Hyundai-Tucson-2026-Vinnitsa-73082889.html",
+   "name": "Hyundai Tucson",
+   "make": "Hyundai",
+   "model": "Tucson",
+   "year": "2026",
+   "price_usd": 28599,
+   "price_uah": 1291530,
+   "city": "Вінниця",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "2",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Hyundai-Tucson-ne_ukazan-Vnedorozhnik-Krossover-2026-24a-73082889.jpg"
+  }
+ },
+ "73240741": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73240741",
+   "url": "https://automoto.ua/uk/Opel-mokka-2025-Vinnitsa-73240741.html",
+   "name": "Opel Mokka",
+   "make": "Opel",
+   "model": "Mokka",
+   "year": "2025",
+   "price_usd": 26070,
+   "price_uah": 1177581,
+   "city": "Вінниця",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.2",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Opel-mokka-ne_ukazan-Vnedorozhnik-Krossover-2025-b78-73240741.jpg"
+  }
+ },
+ "73248514": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73248514",
+   "url": "https://automoto.ua/uk/Citroen-C3-Aircross-2026-Vinnitsa-73248514.html",
+   "name": "Citroen C3 Aircross",
+   "make": "Citroen",
+   "model": "C3 Aircross",
+   "year": "2026",
+   "price_usd": 24466,
+   "price_uah": 1104884,
+   "city": "Вінниця",
+   "mileage_km": null,
+   "fuel": "Гібрид (MHEV)",
+   "engine_l": "1.2",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Citroen-C3-Aircross-ne_ukazan-Vnedorozhnik-Krossover-2026-f41-73248514.jpg"
+  }
+ },
+ "73041680": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73041680",
+   "url": "https://automoto.ua/uk/Mazda-cx-30-2026-Lutsk-73041680.html",
+   "name": "Mazda CX-30",
+   "make": "Mazda",
+   "model": "CX-30",
+   "year": "2026",
+   "price_usd": 30718,
+   "price_uah": 1387224,
+   "city": "Луцьк",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "2",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Mazda-cx-30-ne_ukazan-Vnedorozhnik-Krossover-2026-8f2-73041680.jpg"
+  }
+ },
+ "72619748": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72619748",
+   "url": "https://automoto.ua/uk/Chery-tiggo_2_pro-2026-Lutsk-72619748.html",
+   "name": "Chery Tiggo 2 Pro",
+   "make": "Chery",
+   "model": "Tiggo 2 Pro",
+   "year": "2026",
+   "price_usd": 14890,
+   "price_uah": 673028,
+   "city": "Луцьк",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.5",
+   "gearbox": "Варіатор",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Chery-tiggo_2_pro-ne_ukazan-Vnedorozhnik-Krossover-2026-ab4-72619748.jpg"
+  }
+ },
+ "72631405": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72631405",
+   "url": "https://automoto.ua/uk/Chery-himla-2026-Lutsk-72631405.html",
+   "name": "Chery Himla",
+   "make": "Chery",
+   "model": "Himla",
+   "year": "2026",
+   "price_usd": 31561,
+   "price_uah": 1425294,
+   "city": "Луцьк",
+   "mileage_km": 0,
+   "fuel": "Дизель",
+   "engine_l": "2.3",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "Пікап",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Chery-himla-ne_ukazan-Pikap-2026-6a4-72631405.jpg"
+  }
+ },
+ "73274483": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73274483",
+   "url": "https://automoto.ua/uk/Hyundai-Santa-FE-2013-Lutsk-73274483.html",
+   "name": "Hyundai Santa FE",
+   "make": "Hyundai",
+   "model": "Santa FE",
+   "year": "2013",
+   "price_usd": 20700,
+   "price_uah": 934811,
+   "city": "Луцьк",
+   "mileage_km": 133000,
+   "fuel": "Дизель",
+   "engine_l": "2.2",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Білий",
+   "image": "https://img.automoto.ua/auto/Hyundai-Santa-FE-belyiy-Vnedorozhnik-Krossover-2013-4f1-73274483.jpg"
+  }
+ },
+ "73000988": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73000988",
+   "url": "https://automoto.ua/uk/Mazda-CX-5-2026-Lutsk-73000988.html",
+   "name": "Mazda CX-5",
+   "make": "Mazda",
+   "model": "CX-5",
+   "year": "2026",
+   "price_usd": 31659,
+   "price_uah": 1429720,
+   "city": "Луцьк",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "2",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Mazda-CX-5-ne_ukazan-Vnedorozhnik-Krossover-2026-b3c-73000988.jpg"
+  }
+ },
+ "73192430": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73192430",
+   "url": "https://automoto.ua/uk/Ford-Ranger-2026-Dnepr-Dnepropetrovsk-73192430.html",
+   "name": "Ford Ranger",
+   "make": "Ford",
+   "model": "Ranger",
+   "year": "2026",
+   "price_usd": 68868,
+   "price_uah": 3110078,
+   "city": "Дніпро (Дніпропетровськ) 68 868 $ 3 110 078 грн {{ formatNumber(convertCurrency('USD'",
+   "mileage_km": 0,
+   "fuel": "Дизель",
+   "engine_l": "3",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "Пікап",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Ford-Ranger-ne_ukazan-Pikap-2026-ac3-73192430.jpg"
+  }
+ },
+ "72776480": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72776480",
+   "url": "https://automoto.ua/uk/Hyundai-Tucson-2026-Dnepr-Dnepropetrovsk-72776480.html",
+   "name": "Hyundai Tucson",
+   "make": "Hyundai",
+   "model": "Tucson",
+   "year": "2026",
+   "price_usd": 31388,
+   "price_uah": 1417482,
+   "city": "Дніпро (Дніпропетровськ) 31 388 $ 1 417 482 грн {{ formatNumber(convertCurrency('USD'",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "2",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Hyundai-Tucson-ne_ukazan-Vnedorozhnik-Krossover-2026-b7d-72776480.jpg"
+  }
+ },
+ "73166934": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73166934",
+   "url": "https://automoto.ua/uk/Mazda-cx-60-2026-Dnepr-Dnepropetrovsk-73166934.html",
+   "name": "Mazda CX-60",
+   "make": "Mazda",
+   "model": "CX-60",
+   "year": "2026",
+   "price_usd": 55478,
+   "price_uah": 2507605,
+   "city": "Дніпро (Дніпропетровськ) 55 478 $ 2 507 605 грн {{ formatNumber(convertCurrency('USD'",
+   "mileage_km": 0,
+   "fuel": "Гібрид (MHEV)",
+   "engine_l": "3.28",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Mazda-cx-60-ne_ukazan-Vnedorozhnik-Krossover-2026-155-73166934.jpg"
+  }
+ },
+ "73334386": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73334386",
+   "url": "https://automoto.ua/uk/Opel-grandland-2025-Zhitomir-73334386.html",
+   "name": "Opel Grandland",
+   "make": "Opel",
+   "model": "Grandland",
+   "year": "2025",
+   "price_usd": 35799,
+   "price_uah": 1616682,
+   "city": "Житомир",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.6",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Opel-grandland-ne_ukazan-Vnedorozhnik-Krossover-2025-0b9-73334386.jpg"
+  }
+ },
+ "73141751": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73141751",
+   "url": "https://automoto.ua/uk/Kia-sportage-2026-Zhitomir-73141751.html",
+   "name": "Kia Sportage",
+   "make": "Kia",
+   "model": "Sportage",
+   "year": "2026",
+   "price_usd": 30027,
+   "price_uah": 1356019,
+   "city": "Житомир",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.6",
+   "gearbox": "Роботизована",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Kia-sportage-ne_ukazan-Vnedorozhnik-Krossover-2026-f95-73141751.jpg"
+  }
+ },
+ "73352106": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73352106",
+   "url": "https://automoto.ua/uk/Mazda-3-2008-Zhitomir-73352106.html",
+   "name": "Mazda 3",
+   "make": "Mazda",
+   "model": "3",
+   "year": "2008",
+   "price_usd": 6850,
+   "price_uah": 309346,
+   "city": "Житомир",
+   "mileage_km": 170000,
+   "fuel": "Бензин",
+   "engine_l": "1.6",
+   "gearbox": "Автомат",
+   "drive": "Передній",
    "body": "Хетчбек",
-   "color": "Чорний",
-   "image": "https://img.automoto.ua/auto/Renault-Megane-chernyiy-Hetchbek-2010-db1-73369341.jpg"
+   "color": "Сірий",
+   "image": "https://img.automoto.ua/auto/Mazda-3-seryiy-Hetchbek-2008-205-73352106.jpg"
+  }
+ },
+ "71247780": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "71247780",
+   "url": "https://automoto.ua/uk/Kia-Sorento-2025-Uzhgorod-71247780.html",
+   "name": "Kia Sorento",
+   "make": "Kia",
+   "model": "Sorento",
+   "year": "2025",
+   "price_usd": 64983,
+   "price_uah": 2934632,
+   "city": "Ужгород",
+   "mileage_km": null,
+   "fuel": "Дизель",
+   "engine_l": "2.15",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Kia-Sorento-ne_ukazan-Vnedorozhnik-Krossover-2025-d95-71247780.jpg"
+  }
+ },
+ "72824685": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72824685",
+   "url": "https://automoto.ua/uk/Mercedes-Benz-GLE-Class-2025-Uzhgorod-72824685.html",
+   "name": "Mercedes-Benz GLE-Class",
+   "make": "Mercedes-Benz",
+   "model": "GLE-Class",
+   "year": "2025",
+   "price_usd": 104542,
+   "price_uah": 4721116,
+   "city": "Ужгород",
+   "mileage_km": 0,
+   "fuel": "Дизель",
+   "engine_l": "1.99",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Mercedes-Benz-GLE-Class-ne_ukazan-Vnedorozhnik-Krossover-2025-496-72824685.jpg"
+  }
+ },
+ "73014594": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73014594",
+   "url": "https://automoto.ua/uk/jetour-t1-2026-Uzhgorod-73014594.html",
+   "name": "Jetour T1",
+   "make": "Jetour",
+   "model": "T1",
+   "year": "2026",
+   "price_usd": 38034,
+   "price_uah": 1717615,
+   "city": "Ужгород",
+   "mileage_km": 0,
+   "fuel": "Гібрид (PHEV)",
+   "engine_l": "1.5",
+   "gearbox": "Роботизована",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/jetour-t1-ne_ukazan-Vnedorozhnik-Krossover-2026-f15-73014594.jpg"
+  }
+ },
+ "73359089": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73359089",
+   "url": "https://automoto.ua/uk/Renault-Logan-2013-Tyachev-73359089.html",
+   "name": "Renault Logan",
+   "make": "Renault",
+   "model": "Logan",
+   "year": "2013",
+   "price_usd": 4514,
+   "price_uah": 203852,
+   "city": "Тячів",
+   "mileage_km": 180000,
+   "fuel": "Газ/бензин",
+   "engine_l": "1.1",
+   "gearbox": "Ручна / Механіка",
+   "drive": "Передній",
+   "body": "Седан",
+   "color": "Білий",
+   "image": "https://img.automoto.ua/auto/Renault-Logan-belyiy-Sedan-2013-3f6-73359089.jpg"
+  }
+ },
+ "71735940": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "71735940",
+   "url": "https://automoto.ua/uk/kg_mobility-grand_musso-2025-Uzhgorod-71735940.html",
+   "name": "KG Mobility Grand Musso",
+   "make": "KG Mobility",
+   "model": "Grand Musso",
+   "year": "2025",
+   "price_usd": 35921,
+   "price_uah": 1622192,
+   "city": "Ужгород",
+   "mileage_km": 0,
+   "fuel": "Дизель",
+   "engine_l": "2.16",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "Пікап",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/kg_mobility-grand_musso-ne_ukazan-Pikap-2025-b00-71735940.jpg"
+  }
+ },
+ "73354064": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73354064",
+   "url": "https://automoto.ua/uk/Peugeot-2008-2025-Ivanofrankovsk-73354064.html",
+   "name": "Peugeot 2008",
+   "make": "Peugeot",
+   "model": "2008",
+   "year": "2025",
+   "price_usd": 27741,
+   "price_uah": 1253893,
+   "city": "Івано-Франківськ",
+   "mileage_km": 0,
+   "fuel": "Гібрид (HEV)",
+   "engine_l": "1.2",
+   "gearbox": "Роботизована",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Peugeot-2008-ne_ukazan-Vnedorozhnik-Krossover-2025-adb-73354064.jpg"
+  }
+ },
+ "72614647": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72614647",
+   "url": "https://automoto.ua/uk/Skoda-SuperB-2026-Ivanofrankovsk-72614647.html",
+   "name": "Skoda SuperB",
+   "make": "Skoda",
+   "model": "SuperB",
+   "year": "2026",
+   "price_usd": 52602,
+   "price_uah": 2375506,
+   "city": "Івано-Франківськ",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.98",
+   "gearbox": "Роботизована",
+   "drive": "Повний",
+   "body": "Ліфтбек",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Skoda-SuperB-ne_ukazan-liftbek-2026-431-72614647.jpg"
+  }
+ },
+ "72947581": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72947581",
+   "url": "https://automoto.ua/uk/Peugeot-408-2025-Ivanofrankovsk-72947581.html",
+   "name": "Peugeot 408",
+   "make": "Peugeot",
+   "model": "408",
+   "year": "2025",
+   "price_usd": 30013,
+   "price_uah": 1356587,
+   "city": "Івано-Франківськ",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.6",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "Ліфтбек",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Peugeot-408-ne_ukazan-liftbek-2025-b5e-72947581.jpg"
+  }
+ },
+ "73113658": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73113658",
+   "url": "https://automoto.ua/uk/Skoda-Octavia-2026-Ivanofrankovsk-73113658.html",
+   "name": "Skoda Octavia",
+   "make": "Skoda",
+   "model": "Octavia",
+   "year": "2026",
+   "price_usd": 30405,
+   "price_uah": 1373089,
+   "city": "Івано-Франківськ",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.4",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "Ліфтбек",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Skoda-Octavia-ne_ukazan-liftbek-2026-63c-73113658.jpg"
+  }
+ },
+ "73325738": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73325738",
+   "url": "https://automoto.ua/uk/Skoda-Kodiaq-2026-Kiev-73325738.html",
+   "name": "Skoda Kodiaq",
+   "make": "Skoda",
+   "model": "Kodiaq",
+   "year": "2026",
+   "price_usd": 45390,
+   "price_uah": 2050266,
+   "city": "Київ",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.98",
+   "gearbox": "Роботизована",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Skoda-Kodiaq-ne_ukazan-Vnedorozhnik-Krossover-2026-b69-73325738.jpg"
+  }
+ },
+ "73091711": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73091711",
+   "url": "https://automoto.ua/uk/Renault-Duster-2026-Kiev-73091711.html",
+   "name": "Renault Duster",
+   "make": "Renault",
+   "model": "Duster",
+   "year": "2026",
+   "price_usd": 28305,
+   "price_uah": 1278253,
+   "city": "Київ",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.33",
+   "gearbox": "Роботизована",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Renault-Duster-ne_ukazan-Vnedorozhnik-Krossover-2026-cd3-73091711.jpg"
+  }
+ },
+ "73263388": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73263388",
+   "url": "https://automoto.ua/uk/Volkswagen-Tiguan-2026-Kiev-73263388.html",
+   "name": "Volkswagen Tiguan",
+   "make": "Volkswagen",
+   "model": "Tiguan",
+   "year": "2026",
+   "price_usd": 51914,
+   "price_uah": 2344955,
+   "city": "Київ",
+   "mileage_km": 0,
+   "fuel": "Дизель",
+   "engine_l": "1.97",
+   "gearbox": "Роботизована",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Volkswagen-Tiguan-ne_ukazan-Vnedorozhnik-Krossover-2026-26b-73263388.jpg"
+  }
+ },
+ "73285029": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73285029",
+   "url": "https://automoto.ua/uk/Skoda-Kodiaq-2026-Kiev-73285029.html",
+   "name": "Skoda Kodiaq",
+   "make": "Skoda",
+   "model": "Kodiaq",
+   "year": "2026",
+   "price_usd": 49612,
+   "price_uah": 2240974,
+   "city": "Київ",
+   "mileage_km": 0,
+   "fuel": "Дизель",
+   "engine_l": "1.97",
+   "gearbox": "Роботизована",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Skoda-Kodiaq-ne_ukazan-Vnedorozhnik-Krossover-2026-fde-73285029.jpg"
+  }
+ },
+ "72372342": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72372342",
+   "url": "https://automoto.ua/uk/MG-cyberster-2026-Kropivnickiy-Kirovograd-72372342.html",
+   "name": "MG Cyberster",
+   "make": "MG",
+   "model": "Cyberster",
+   "year": "2026",
+   "price_usd": 60110,
+   "price_uah": 2714567,
+   "city": "Кропивницький (Кіровоград) 60 110 $ 2 714 567 грн {{ formatNumber(convertCurrency('USD'",
+   "mileage_km": 0,
+   "fuel": "Електро",
+   "engine_l": "0",
+   "gearbox": "Автомат",
+   "drive": "Задній",
+   "body": "Кабріолет",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/MG-cyberster-ne_ukazan-Kabriolet-2026-642-72372342.jpg"
+  }
+ },
+ "71730242": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "71730242",
+   "url": "https://automoto.ua/uk/Suzuki-Vitara-2026-Kropivnickiy-Kirovograd-71730242.html",
+   "name": "Suzuki Vitara",
+   "make": "Suzuki",
+   "model": "Vitara",
+   "year": "2026",
+   "price_usd": 24642,
+   "price_uah": 1112832,
+   "city": "Кропивницький (Кіровоград) 24 642 $ 1 112 832 грн {{ formatNumber(convertCurrency('USD'",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.37",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Suzuki-Vitara-ne_ukazan-Vnedorozhnik-Krossover-2026-9ea-71730242.jpg"
+  }
+ },
+ "72931807": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72931807",
+   "url": "https://automoto.ua/uk/Suzuki-Swift-2026-Kropivnickiy-Kirovograd-72931807.html",
+   "name": "Suzuki Swift",
+   "make": "Suzuki",
+   "model": "Swift",
+   "year": "2026",
+   "price_usd": 19480,
+   "price_uah": 879716,
+   "city": "Кропивницький (Кіровоград) 19 480 $ 879 716 грн {{ formatNumber(convertCurrency('USD'",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.2",
+   "gearbox": "Варіатор",
+   "drive": "Передній",
+   "body": "Хетчбек",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Suzuki-Swift-ne_ukazan-Hetchbek-2026-8f2-72931807.jpg"
+  }
+ },
+ "72147668": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72147668",
+   "url": "https://automoto.ua/uk/Mitsubishi-Pajero-Sport-2026-Kropivnickiy-Kirovograd-72147668.html",
+   "name": "Mitsubishi Pajero Sport",
+   "make": "Mitsubishi",
+   "model": "Pajero Sport",
+   "year": "2026",
+   "price_usd": 46241,
+   "price_uah": 2088243,
+   "city": "Кропивницький (Кіровоград) 46 241 $ 2 088 243 грн {{ formatNumber(convertCurrency('USD'",
+   "mileage_km": null,
+   "fuel": "Бензин",
+   "engine_l": "3",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Mitsubishi-Pajero-Sport-ne_ukazan-Vnedorozhnik-Krossover-2026-81a-72147668.jpg"
+  }
+ },
+ "73357511": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73357511",
+   "url": "https://automoto.ua/uk/Nissan-Almera-Classic-2011-Aleksandriya-73357511.html",
+   "name": "Nissan Almera Classic",
+   "make": "Nissan",
+   "model": "Almera Classic",
+   "year": "2011",
+   "price_usd": 5317,
+   "price_uah": 240328,
+   "city": "Олександрія",
+   "mileage_km": 185000,
+   "fuel": "Газ/бензин",
+   "engine_l": "1.6",
+   "gearbox": "Ручна / Механіка",
+   "drive": "Передній",
+   "body": "Седан",
+   "color": "Синій",
+   "image": "https://img.automoto.ua/auto/Nissan-Almera-Classic-siniy-Sedan-2011-3e7-73357511.jpg"
+  }
+ },
+ "73149283": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73149283",
+   "url": "https://automoto.ua/uk/Kia-xceed-2025-Lvov-73149283.html",
+   "name": "Kia XCeed",
+   "make": "Kia",
+   "model": "XCeed",
+   "year": "2025",
+   "price_usd": 21775,
+   "price_uah": 983358,
+   "city": "Львів",
+   "mileage_km": 0,
+   "fuel": "Гібрид (MHEV)",
+   "engine_l": "1",
+   "gearbox": "Роботизована",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Kia-xceed-ne_ukazan-Vnedorozhnik-Krossover-2025-81a-73149283.jpg"
+  }
+ },
+ "73125046": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73125046",
+   "url": "https://automoto.ua/uk/Jeep-Wrangler-2025-Lvov-73125046.html",
+   "name": "Jeep Wrangler",
+   "make": "Jeep",
+   "model": "Wrangler",
+   "year": "2025",
+   "price_usd": 79949,
+   "price_uah": 3610496,
+   "city": "Львів",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "2",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Jeep-Wrangler-ne_ukazan-Vnedorozhnik-Krossover-2025-056-73125046.jpg"
+  }
+ },
+ "73354092": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73354092",
+   "url": "https://automoto.ua/uk/Hyundai-staria-2026-Lvov-73354092.html",
+   "name": "Hyundai Staria",
+   "make": "Hyundai",
+   "model": "Staria",
+   "year": "2026",
+   "price_usd": 56601,
+   "price_uah": 2556101,
+   "city": "Львів",
+   "mileage_km": 0,
+   "fuel": "Дизель",
+   "engine_l": "2.2",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "Мінівен",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Hyundai-staria-ne_ukazan-Miniven-2026-e42-73354092.jpg"
+  }
+ },
+ "73367519": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73367519",
+   "url": "https://automoto.ua/uk/Peugeot-107-2009-Lvov-73367519.html",
+   "name": "Peugeot 107",
+   "make": "Peugeot",
+   "model": "107",
+   "year": "2009",
+   "price_usd": 2860,
+   "price_uah": 129157,
+   "city": "Львів",
+   "mileage_km": 133000,
+   "fuel": "Бензин",
+   "engine_l": "1",
+   "gearbox": "Ручна / Механіка",
+   "drive": "Передній",
+   "body": "Хетчбек",
+   "color": "Червоний",
+   "image": "https://img.automoto.ua/auto/Peugeot-107-krasnyiy-Hetchbek-2009-36b-73367519.jpg"
+  }
+ },
+ "73160199": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73160199",
+   "url": "https://automoto.ua/uk/Skoda-SuperB-2026-Lvov-73160199.html",
+   "name": "Skoda SuperB",
+   "make": "Skoda",
+   "model": "SuperB",
+   "year": "2026",
+   "price_usd": 49824,
+   "price_uah": 2250051,
+   "city": "Львів",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.98",
+   "gearbox": "Роботизована",
+   "drive": "Повний",
+   "body": "Ліфтбек",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Skoda-SuperB-ne_ukazan-liftbek-2026-8e8-73160199.jpg"
+  }
+ },
+ "72000935": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72000935",
+   "url": "https://automoto.ua/uk/Ford-Kuga-2026-Nikolaev-72000935.html",
+   "name": "Ford Kuga",
+   "make": "Ford",
+   "model": "Kuga",
+   "year": "2026",
+   "price_usd": 45104,
+   "price_uah": 2036896,
+   "city": "Миколаїв",
+   "mileage_km": 0,
+   "fuel": "Гібрид (HEV)",
+   "engine_l": "2.49",
+   "gearbox": "Варіатор",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Ford-Kuga-ne_ukazan-Vnedorozhnik-Krossover-2026-79d-72000935.jpg"
+  }
+ },
+ "71134290": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "71134290",
+   "url": "https://automoto.ua/uk/Ford-Puma-2025-Nikolaev-71134290.html",
+   "name": "Ford Puma",
+   "make": "Ford",
+   "model": "Puma",
+   "year": "2025",
+   "price_usd": 25494,
+   "price_uah": 1151309,
+   "city": "Миколаїв",
+   "mileage_km": 0,
+   "fuel": "Гібрид (MHEV)",
+   "engine_l": "1",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Ford-Puma-ne_ukazan-Vnedorozhnik-Krossover-2025-894-71134290.jpg"
+  }
+ },
+ "72853589": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72853589",
+   "url": "https://automoto.ua/uk/Skoda-Kodiaq-2026-Nikolaev-72853589.html",
+   "name": "Skoda Kodiaq",
+   "make": "Skoda",
+   "model": "Kodiaq",
+   "year": "2026",
+   "price_usd": 41504,
+   "price_uah": 1874320,
+   "city": "Миколаїв",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.98",
+   "gearbox": "Роботизована",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Skoda-Kodiaq-ne_ukazan-Vnedorozhnik-Krossover-2026-828-72853589.jpg"
+  }
+ },
+ "73275186": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73275186",
+   "url": "https://automoto.ua/uk/ZAZ-Vida-2015-Nikolaev-73275186.html",
+   "name": "ЗАЗ Vida",
+   "make": "ЗАЗ",
+   "model": "Vida",
+   "year": "2015",
+   "price_usd": 5700,
+   "price_uah": 257411,
+   "city": "Миколаїв",
+   "mileage_km": 115000,
+   "fuel": "Бензин",
+   "engine_l": "1.4",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "Хетчбек",
+   "color": "Бежевий",
+   "image": "https://img.automoto.ua/auto/ZAZ-Vida-bezhevyiy-Hetchbek-2015-a61-73275186.jpg"
+  }
+ },
+ "73266228": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73266228",
+   "url": "https://automoto.ua/uk/Opel-Frontera-2026-Odessa-73266228.html",
+   "name": "Opel Frontera",
+   "make": "Opel",
+   "model": "Frontera",
+   "year": "2026",
+   "price_usd": 25133,
+   "price_uah": 1135006,
+   "city": "Одеса",
+   "mileage_km": 0,
+   "fuel": "Гібрид (MHEV)",
+   "engine_l": "1.2",
+   "gearbox": "Роботизована",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Opel-Frontera-ne_ukazan-Vnedorozhnik-Krossover-2026-f84-73266228.jpg"
+  }
+ },
+ "73171382": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73171382",
+   "url": "https://automoto.ua/uk/jetour-t1-2026-Odessa-73171382.html",
+   "name": "Jetour T1",
+   "make": "Jetour",
+   "model": "T1",
+   "year": "2026",
+   "price_usd": 32696,
+   "price_uah": 1476551,
+   "city": "Одеса",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "2",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/jetour-t1-ne_ukazan-Vnedorozhnik-Krossover-2026-4dc-73171382.jpg"
+  }
+ },
+ "72621838": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72621838",
+   "url": "https://automoto.ua/uk/Skoda-Kodiaq-2026-Odessa-72621838.html",
+   "name": "Skoda Kodiaq",
+   "make": "Skoda",
+   "model": "Kodiaq",
+   "year": "2026",
+   "price_usd": 51713,
+   "price_uah": 2335359,
+   "city": "Одеса",
+   "mileage_km": null,
+   "fuel": "Бензин",
+   "engine_l": "1.98",
+   "gearbox": "Роботизована",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Skoda-Kodiaq-ne_ukazan-Vnedorozhnik-Krossover-2026-d67-72621838.jpg"
+  }
+ },
+ "73334373": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73334373",
+   "url": "https://automoto.ua/uk/Chery-tiggo_9-2026-Odessa-73334373.html",
+   "name": "Chery Tiggo 9",
+   "make": "Chery",
+   "model": "Tiggo 9",
+   "year": "2026",
+   "price_usd": 49538,
+   "price_uah": 2237136,
+   "city": "Одеса",
+   "mileage_km": 0,
+   "fuel": "Гібрид (PHEV)",
+   "engine_l": "1.5",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Chery-tiggo_9-ne_ukazan-Vnedorozhnik-Krossover-2026-da3-73334373.jpg"
+  }
+ },
+ "73115694": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73115694",
+   "url": "https://automoto.ua/uk/Skoda-Kodiaq-2026-Kremenchug-73115694.html",
+   "name": "Skoda Kodiaq",
+   "make": "Skoda",
+   "model": "Kodiaq",
+   "year": "2026",
+   "price_usd": 47802,
+   "price_uah": 2158738,
+   "city": "Кременчук",
+   "mileage_km": null,
+   "fuel": "Бензин",
+   "engine_l": "1.98",
+   "gearbox": "Роботизована",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Skoda-Kodiaq-ne_ukazan-Vnedorozhnik-Krossover-2026-5cb-73115694.jpg"
+  }
+ },
+ "73345427": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73345427",
+   "url": "https://automoto.ua/uk/Hyundai-kona-2026-Kremenchug-73345427.html",
+   "name": "Hyundai Kona",
+   "make": "Hyundai",
+   "model": "Kona",
+   "year": "2026",
+   "price_usd": 32177,
+   "price_uah": 1454400,
+   "city": "Кременчук",
+   "mileage_km": 0,
+   "fuel": "Гібрид (HEV)",
+   "engine_l": "1.58",
+   "gearbox": "Роботизована",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Hyundai-kona-ne_ukazan-Vnedorozhnik-Krossover-2026-ea0-73345427.jpg"
+  }
+ },
+ "73091752": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73091752",
+   "url": "https://automoto.ua/uk/Hyundai-Tucson-2026-Kremenchug-73091752.html",
+   "name": "Hyundai Tucson",
+   "make": "Hyundai",
+   "model": "Tucson",
+   "year": "2026",
+   "price_usd": 33310,
+   "price_uah": 1504279,
+   "city": "Кременчук",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "2",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Hyundai-Tucson-ne_ukazan-Vnedorozhnik-Krossover-2026-8f1-73091752.jpg"
+  }
+ },
+ "71943088": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "71943088",
+   "url": "https://automoto.ua/uk/Suzuki-Swift-2026-Kremenchug-71943088.html",
+   "name": "Suzuki Swift",
+   "make": "Suzuki",
+   "model": "Swift",
+   "year": "2026",
+   "price_usd": 20485,
+   "price_uah": 925102,
+   "city": "Кременчук",
+   "mileage_km": null,
+   "fuel": "Бензин",
+   "engine_l": "1.2",
+   "gearbox": "Варіатор",
+   "drive": "Передній",
+   "body": "Хетчбек",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Suzuki-Swift-ne_ukazan-Hetchbek-2026-ead-71943088.jpg"
+  }
+ },
+ "71862105": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "71862105",
+   "url": "https://automoto.ua/uk/Toyota-C-HR-2026-Rovno-71862105.html",
+   "name": "Toyota C-HR",
+   "make": "Toyota",
+   "model": "C-HR",
+   "year": "2026",
+   "price_usd": 48058,
+   "price_uah": 2170299,
+   "city": "Рівне",
+   "mileage_km": 0,
+   "fuel": "Гібрид (HEV)",
+   "engine_l": "1.99",
+   "gearbox": "Варіатор",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Toyota-C-HR-ne_ukazan-Vnedorozhnik-Krossover-2026-6fb-71862105.jpg"
+  }
+ },
+ "70816167": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "70816167",
+   "url": "https://automoto.ua/uk/Citroen-C3-2025-Rovno-70816167.html",
+   "name": "Citroen C3",
+   "make": "Citroen",
+   "model": "C3",
+   "year": "2025",
+   "price_usd": 18196,
+   "price_uah": 822459,
+   "city": "Рівне",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.2",
+   "gearbox": "Ручна / Механіка",
+   "drive": "Передній",
+   "body": "Хетчбек",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Citroen-C3-ne_ukazan-Hetchbek-2025-985-70816167.jpg"
+  }
+ },
+ "73318200": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73318200",
+   "url": "https://automoto.ua/uk/Fiat-Ulysse-2026-Rovno-73318200.html",
+   "name": "Fiat Ulysse",
+   "make": "Fiat",
+   "model": "Ulysse",
+   "year": "2026",
+   "price_usd": 42927,
+   "price_uah": 1938583,
+   "city": "Рівне",
+   "mileage_km": 0,
+   "fuel": "Дизель",
+   "engine_l": "2",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "Мінівен",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Fiat-Ulysse-ne_ukazan-Miniven-2026-f6a-73318200.jpg"
+  }
+ },
+ "73248474": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73248474",
+   "url": "https://automoto.ua/uk/Peugeot-3008-2026-Rovno-73248474.html",
+   "name": "Peugeot 3008",
+   "make": "Peugeot",
+   "model": "3008",
+   "year": "2026",
+   "price_usd": 38538,
+   "price_uah": 1740376,
+   "city": "Рівне",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.6",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Peugeot-3008-ne_ukazan-Vnedorozhnik-Krossover-2026-a26-73248474.jpg"
+  }
+ },
+ "73266170": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73266170",
+   "url": "https://automoto.ua/uk/Hyundai-venue-2026-Ternopol-73266170.html",
+   "name": "Hyundai Venue",
+   "make": "Hyundai",
+   "model": "Venue",
+   "year": "2026",
+   "price_usd": 24593,
+   "price_uah": 1110619,
+   "city": "Тернопіль",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.59",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Hyundai-venue-ne_ukazan-Vnedorozhnik-Krossover-2026-afc-73266170.jpg"
+  }
+ },
+ "71127073": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "71127073",
+   "url": "https://automoto.ua/uk/Fiat-Nuovo-Doblo-2025-Ternopol-71127073.html",
+   "name": "Fiat Doblo",
+   "make": "Fiat",
+   "model": "Doblo",
+   "year": "2025",
+   "price_usd": 21464,
+   "price_uah": 969314,
+   "city": "Тернопіль",
+   "mileage_km": 0,
+   "fuel": "Дизель",
+   "engine_l": "1.5",
+   "gearbox": "Ручна / Механіка",
+   "drive": "Передній",
+   "body": "Фургон",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Fiat-Nuovo-Doblo-ne_ukazan-Furgon-2025-116-71127073.jpg"
+  }
+ },
+ "71314407": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "71314407",
+   "url": "https://automoto.ua/uk/Hyundai-Tucson-2026-Ternopol-71314407.html",
+   "name": "Hyundai Tucson",
+   "make": "Hyundai",
+   "model": "Tucson",
+   "year": "2026",
+   "price_usd": 27696,
+   "price_uah": 1250751,
+   "city": "Тернопіль",
+   "mileage_km": null,
+   "fuel": "Бензин",
+   "engine_l": "2",
+   "gearbox": "Ручна / Механіка",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Hyundai-Tucson-ne_ukazan-Vnedorozhnik-Krossover-2026-796-71314407.jpg"
+  }
+ },
+ "73192518": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73192518",
+   "url": "https://automoto.ua/uk/Peugeot-partner-2026-Ternopol-73192518.html",
+   "name": "Peugeot Partner",
+   "make": "Peugeot",
+   "model": "Partner",
+   "year": "2026",
+   "price_usd": 26961,
+   "price_uah": 1217558,
+   "city": "Тернопіль",
+   "mileage_km": 0,
+   "fuel": "Дизель",
+   "engine_l": "1.5",
+   "gearbox": "Ручна / Механіка",
+   "drive": "Передній",
+   "body": "Мінівен",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Peugeot-partner-ne_ukazan-Miniven-2026-0e0-73192518.jpg"
+  }
+ },
+ "73184962": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73184962",
+   "url": "https://automoto.ua/uk/jetour-x70_plus-2026-Kharkov-73184962.html",
+   "name": "Jetour X70 Plus",
+   "make": "Jetour",
+   "model": "X70 Plus",
+   "year": "2026",
+   "price_usd": 25356,
+   "price_uah": 1145076,
+   "city": "Харків",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.6",
+   "gearbox": "Роботизована",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/jetour-x70_plus-ne_ukazan-Vnedorozhnik-Krossover-2026-2ba-73184962.jpg"
+  }
+ },
+ "72891009": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72891009",
+   "url": "https://automoto.ua/uk/Peugeot-408-2026-Kharkov-72891009.html",
+   "name": "Peugeot 408",
+   "make": "Peugeot",
+   "model": "408",
+   "year": "2026",
+   "price_usd": 33980,
+   "price_uah": 1535896,
+   "city": "Харків",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.6",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Peugeot-408-ne_ukazan-Vnedorozhnik-Krossover-2026-d8d-72891009.jpg"
+  }
+ },
+ "72456503": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72456503",
+   "url": "https://automoto.ua/uk/Kia-Sorento-2025-Kharkov-72456503.html",
+   "name": "Kia Sorento",
+   "make": "Kia",
+   "model": "Sorento",
+   "year": "2025",
+   "price_usd": 60053,
+   "price_uah": 2711993,
+   "city": "Харків",
+   "mileage_km": 0,
+   "fuel": "Дизель",
+   "engine_l": "2.15",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Kia-Sorento-ne_ukazan-Vnedorozhnik-Krossover-2025-036-72456503.jpg"
+  }
+ },
+ "72630292": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72630292",
+   "url": "https://automoto.ua/uk/jetour-t2-2026-Khmelnytskyi-72630292.html",
+   "name": "Jetour T2",
+   "make": "Jetour",
+   "model": "T2",
+   "year": "2026",
+   "price_usd": 34698,
+   "price_uah": 1567308,
+   "city": "Хмельницький",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "2",
+   "gearbox": "Роботизована",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/jetour-t2-ne_ukazan-Vnedorozhnik-Krossover-2026-430-72630292.jpg"
+  }
+ },
+ "73265906": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73265906",
+   "url": "https://automoto.ua/uk/Mercedes-Benz-GLE-Class-2025-Khmelnytskyi-73265906.html",
+   "name": "Mercedes-Benz GLE-Class",
+   "make": "Mercedes-Benz",
+   "model": "GLE-Class",
+   "year": "2025",
+   "price_usd": 112223,
+   "price_uah": 5069112,
+   "city": "Хмельницький",
+   "mileage_km": null,
+   "fuel": "Дизель",
+   "engine_l": "1.99",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Mercedes-Benz-GLE-Class-ne_ukazan-Vnedorozhnik-Krossover-2025-c49-73265906.jpg"
+  }
+ },
+ "73003612": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73003612",
+   "url": "https://automoto.ua/uk/Skoda-Kodiaq-2026-Khmelnytskyi-73003612.html",
+   "name": "Skoda Kodiaq",
+   "make": "Skoda",
+   "model": "Kodiaq",
+   "year": "2026",
+   "price_usd": 46953,
+   "price_uah": 2120867,
+   "city": "Хмельницький",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.98",
+   "gearbox": "Роботизована",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Skoda-Kodiaq-ne_ukazan-Vnedorozhnik-Krossover-2026-bc3-73003612.jpg"
+  }
+ },
+ "72887989": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72887989",
+   "url": "https://automoto.ua/uk/jetour-x70_plus-2026-Khmelnytskyi-72887989.html",
+   "name": "Jetour X70 Plus",
+   "make": "Jetour",
+   "model": "X70 Plus",
+   "year": "2026",
+   "price_usd": 25356,
+   "price_uah": 1145076,
+   "city": "Хмельницький",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.6",
+   "gearbox": "Роботизована",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/jetour-x70_plus-ne_ukazan-Vnedorozhnik-Krossover-2026-ac0-72887989.jpg"
+  }
+ },
+ "72358045": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72358045",
+   "url": "https://automoto.ua/uk/Mazda-cx-30-2026-Cherkassy-72358045.html",
+   "name": "Mazda CX-30",
+   "make": "Mazda",
+   "model": "CX-30",
+   "year": "2026",
+   "price_usd": 31804,
+   "price_uah": 1436268,
+   "city": "Черкаси",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "2",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Mazda-cx-30-ne_ukazan-Vnedorozhnik-Krossover-2026-f65-72358045.jpg"
+  }
+ },
+ "72652263": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72652263",
+   "url": "https://automoto.ua/uk/Mercedes-Benz-GLE-Class-2026-Cherkassy-72652263.html",
+   "name": "Mercedes-Benz GLE-Class",
+   "make": "Mercedes-Benz",
+   "model": "GLE-Class",
+   "year": "2026",
+   "price_usd": 149031,
+   "price_uah": 6730239,
+   "city": "Черкаси",
+   "mileage_km": null,
+   "fuel": "Гібрид (PHEV)",
+   "engine_l": "2",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Mercedes-Benz-GLE-Class-ne_ukazan-Vnedorozhnik-Krossover-2026-e6d-72652263.jpg"
+  }
+ },
+ "72975090": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72975090",
+   "url": "https://automoto.ua/uk/Toyota-yaris_cross-2026-Cherkassy-72975090.html",
+   "name": "Toyota Yaris Cross",
+   "make": "Toyota",
+   "model": "Yaris Cross",
+   "year": "2026",
+   "price_usd": 34606,
+   "price_uah": 1562806,
+   "city": "Черкаси",
+   "mileage_km": 0,
+   "fuel": "Гібрид (HEV)",
+   "engine_l": "1.49",
+   "gearbox": "Варіатор",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Toyota-yaris_cross-ne_ukazan-Vnedorozhnik-Krossover-2026-94e-72975090.jpg"
+  }
+ },
+ "73352298": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73352298",
+   "url": "https://automoto.ua/uk/SEAT-ateca-2018-Cherkassy-73352298.html",
+   "name": "SEAT Ateca",
+   "make": "SEAT",
+   "model": "Ateca",
+   "year": "2018",
+   "price_usd": 21000,
+   "price_uah": 948359,
+   "city": "Черкаси",
+   "mileage_km": 85000,
+   "fuel": "Дизель",
+   "engine_l": "1.6",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Білий",
+   "image": "https://img.automoto.ua/auto/SEAT-ateca-belyiy-Vnedorozhnik-Krossover-2018-d61-73352298.jpg"
+  }
+ },
+ "71012343": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "71012343",
+   "url": "https://automoto.ua/uk/gwm-haval_h6_hev-2025-Cherkassy-71012343.html",
+   "name": "GWM Haval H6 HEV",
+   "make": "GWM",
+   "model": "Haval H6 HEV",
+   "year": "2025",
+   "price_usd": 33263,
+   "price_uah": 1502157,
+   "city": "Черкаси",
+   "mileage_km": 0,
+   "fuel": "Гібрид (HEV)",
+   "engine_l": "1.5",
+   "gearbox": "Не вказана",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/gwm-haval_h6_hev-ne_ukazan-Vnedorozhnik-Krossover-2025-776-71012343.jpg"
+  }
+ },
+ "73156009": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73156009",
+   "url": "https://automoto.ua/uk/Toyota-proace_city-2026-Chernigov-73156009.html",
+   "name": "Toyota Proace City",
+   "make": "Toyota",
+   "model": "Proace City",
+   "year": "2026",
+   "price_usd": 26181,
+   "price_uah": 1182333,
+   "city": "Чернігів",
+   "mileage_km": 0,
+   "fuel": "Дизель",
+   "engine_l": "1.5",
+   "gearbox": "Ручна / Механіка",
+   "drive": "Передній",
+   "body": "Фургон",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Toyota-proace_city-ne_ukazan-Furgon-2026-f05-73156009.jpg"
+  }
+ },
+ "73163752": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73163752",
+   "url": "https://automoto.ua/uk/Hyundai-venue-2026-Chernigov-73163752.html",
+   "name": "Hyundai Venue",
+   "make": "Hyundai",
+   "model": "Venue",
+   "year": "2026",
+   "price_usd": 21980,
+   "price_uah": 992616,
+   "city": "Чернігів",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.59",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Hyundai-venue-ne_ukazan-Vnedorozhnik-Krossover-2026-d5d-73163752.jpg"
+  }
+ },
+ "72281480": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72281480",
+   "url": "https://automoto.ua/uk/Toyota-C-HR-2026-Chernigov-72281480.html",
+   "name": "Toyota C-HR",
+   "make": "Toyota",
+   "model": "C-HR",
+   "year": "2026",
+   "price_usd": 48058,
+   "price_uah": 2170299,
+   "city": "Чернігів",
+   "mileage_km": 0,
+   "fuel": "Гібрид (HEV)",
+   "engine_l": "1.99",
+   "gearbox": "Варіатор",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Toyota-C-HR-ne_ukazan-Vnedorozhnik-Krossover-2026-1ef-72281480.jpg"
+  }
+ },
+ "71712722": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "71712722",
+   "url": "https://automoto.ua/uk/gwm-haval_h5-2025-Chernigov-71712722.html",
+   "name": "GWM Haval H5",
+   "make": "GWM",
+   "model": "Haval H5",
+   "year": "2025",
+   "price_usd": 37578,
+   "price_uah": 1697022,
+   "city": "Чернігів",
+   "mileage_km": 0,
+   "fuel": "Дизель",
+   "engine_l": "2",
+   "gearbox": "Автомат",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/gwm-haval_h5-ne_ukazan-Vnedorozhnik-Krossover-2025-373-71712722.jpg"
+  }
+ },
+ "72853616": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72853616",
+   "url": "https://automoto.ua/uk/Opel-grandland-2025-Chernovtsy-72853616.html",
+   "name": "Opel Grandland",
+   "make": "Opel",
+   "model": "Grandland",
+   "year": "2025",
+   "price_usd": 35165,
+   "price_uah": 1588051,
+   "city": "Чернівці",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.6",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Opel-grandland-ne_ukazan-Vnedorozhnik-Krossover-2025-5bb-72853616.jpg"
+  }
+ },
+ "73266206": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "73266206",
+   "url": "https://automoto.ua/uk/Mitsubishi-eclipse_cross-2025-Chernovtsy-73266206.html",
+   "name": "Mitsubishi Eclipse Cross",
+   "make": "Mitsubishi",
+   "model": "Eclipse Cross",
+   "year": "2025",
+   "price_usd": 29915,
+   "price_uah": 1350961,
+   "city": "Чернівці",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.5",
+   "gearbox": "Варіатор",
+   "drive": "Повний",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Mitsubishi-eclipse_cross-ne_ukazan-Vnedorozhnik-Krossover-2025-6bd-73266206.jpg"
+  }
+ },
+ "71467818": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "71467818",
+   "url": "https://automoto.ua/uk/kg_mobility-torres-2025-Chernovtsy-71467818.html",
+   "name": "KG Mobility Torres",
+   "make": "KG Mobility",
+   "model": "Torres",
+   "year": "2025",
+   "price_usd": 30538,
+   "price_uah": 1379096,
+   "city": "Чернівці",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.5",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/kg_mobility-torres-ne_ukazan-Vnedorozhnik-Krossover-2025-19f-71467818.jpg"
+  }
+ },
+ "72982356": {
+  "fetched": "2026-10-13T15:28:19.678692+00:00",
+  "data": {
+   "id": "72982356",
+   "url": "https://automoto.ua/uk/Citroen-C4-2025-Chernovtsy-72982356.html",
+   "name": "Citroen C4",
+   "make": "Citroen",
+   "model": "C4",
+   "year": "2025",
+   "price_usd": 26535,
+   "price_uah": 1198320,
+   "city": "Чернівці",
+   "mileage_km": 0,
+   "fuel": "Бензин",
+   "engine_l": "1.2",
+   "gearbox": "Автомат",
+   "drive": "Передній",
+   "body": "SUV / Кросовер",
+   "color": "Інший",
+   "image": "https://img.automoto.ua/auto/Citroen-C4-ne_ukazan-Vnedorozhnik-Krossover-2025-08f-72982356.jpg"
   }
  }
 }
