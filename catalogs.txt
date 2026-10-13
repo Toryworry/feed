@@ -5,6 +5,22 @@
 # Приклади (заміни на свої):
 # https://automoto.ua/uk/car/Volkswagen | vw
 # https://automoto.ua/uk/newauto | new
-https://automoto.ua/uk/q/Legkovi-avtomobili-Vinnitska-23858741.html | Vinnytsia
-https://automoto.ua/uk/q/Legkovi-avtomobili-Hmelnitska-31121028.html | Khmelnytskyi 
-https://automoto.ua/uk/q/Legkovi-avtomobili-Kiyivska-23483275.html | Kyiv
+https://automoto.ua/uk/q/Legkovi-avtomobili-Vinnitska-23858741.html | Вінницька
+https://automoto.ua/uk/q/Legkovi-avtomobili-Volinska-26134741.html | Волинська
+https://automoto.ua/uk/q/Legkovi-avtomobili-Dnipropetrovska-24453353.html | Дніпропетровська
+https://automoto.ua/uk/q/Legkovi-avtomobili-ZHitomirska-43285857.html | Житомирська
+https://automoto.ua/uk/q/Legkovi-avtomobili-Zakarpatska-23559742.html | Закарпатська
+https://automoto.ua/uk/q/Legkovi-avtomobili-Ivano-Frankivska-24693367.html | Івано-Франківська
+https://automoto.ua/uk/q/Legkovi-avtomobili-Kiyivska-23483275.html | Київська
+https://automoto.ua/uk/q/Legkovi-avtomobili-Kirovogradska-43038089.html | Кіровоградська
+https://automoto.ua/uk/q/Legkovi-avtomobili-Lvivska-23770730.html | Львівська
+https://automoto.ua/uk/q/Legkovi-avtomobili-Mikolayivska-43285864.html | Миколаївська
+https://automoto.ua/uk/q/Legkovi-avtomobili-Odeska-31482798.html | Одеська
+https://automoto.ua/uk/q/Legkovi-avtomobili-Poltavska-27407593.html | Полтавська
+https://automoto.ua/uk/q/Legkovi-avtomobili-Rivnenska-30286840.html | Рівненська
+https://automoto.ua/uk/q/Legkovi-avtomobili-Ternopilska-26747569.html | Тернопільська
+https://automoto.ua/uk/q/Legkovi-avtomobili-Harkivska-25352639.html | Харківська
+https://automoto.ua/uk/q/Legkovi-avtomobili-Hmelnitska-31121028.html | Хмельницька
+https://automoto.ua/uk/q/Legkovi-avtomobili-CHerkaska-35041506.html | Черкаська
+https://automoto.ua/uk/q/Legkovi-avtomobili-CHernigivska-31279076.html | Чернігівська
+https://automoto.ua/uk/q/Legkovi-avtomobili-CHernivetska-29574975.html | Чернівецька
